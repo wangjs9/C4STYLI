@@ -1,0 +1,6130 @@
+[
+    {
+        "input_text": "死神来了6：血脉诅咒",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "罪人",
+        "output_text": "[\"罪人\"]"
+    },
+    {
+        "input_text": "铁血战士：杀戮之王",
+        "output_text": "[\"杀戮\"]"
+    },
+    {
+        "input_text": "会计刺客2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "物质主义者",
+        "output_text": "[\"物质主义者\"]"
+    },
+    {
+        "input_text": "谍网追凶",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "回声谷",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "功夫梦：融合之道",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "腓尼基计划",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "直到黎明",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "战·争",
+        "output_text": "[\"战·争\"]"
+    },
+    {
+        "input_text": "制暴：无限杀机",
+        "output_text": "[\"暴\", \"杀机\"]"
+    },
+    {
+        "input_text": "编号17",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "峡谷",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "我的世界大电影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "隔空投送",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "无痛凯恩",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "怪猴",
+        "output_text": "[\"怪\"]"
+    },
+    {
+        "input_text": "BJ单身日记 4",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "一息尚存",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "贼巢2",
+        "output_text": "[\"贼\"]"
+    },
+    {
+        "input_text": "重返行动",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "家教",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "海绵宝宝：皮老板大电影",
+        "output_text": "[\"大电影\"]"
+    },
+    {
+        "input_text": "猎魔人：深渊海妖",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "白宫杀人事件",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "匹兹堡医护前线",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "掩耳盗邻",
+        "output_text": "[\"掩耳盗邻\"]"
+    },
+    {
+        "input_text": "墨西哥太平间的九具尸体",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "你的友好邻居蜘蛛侠",
+        "output_text": "[\"友好\"]"
+    },
+    {
+        "input_text": "永航员",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "拉撒路",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "胜与败",
+        "output_text": "[\"胜\", \"败\"]"
+    },
+    {
+        "input_text": "全美缉凶：本·拉登",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑暗智宅",
+        "output_text": "[\"黑暗\"]"
+    },
+    {
+        "input_text": "芭蕾之星",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "矫枉过正",
+        "output_text": "[\"矫枉过正\"]"
+    },
+    {
+        "input_text": "地狱担保人",
+        "output_text": "[\"地狱\"]"
+    },
+    {
+        "input_text": "思想很危险",
+        "output_text": "[\"危险\"]"
+    },
+    {
+        "input_text": "金牌之路：巴黎奥运梦之队",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "真爱太用力",
+        "output_text": "[\"真爱\", \"太用力\"]"
+    },
+    {
+        "input_text": "主要目标",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "男篮女主",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "异轨姝途",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "瓦坎达之眼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑鹰坠落：摩加迪沙之战全纪录",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "侍女之道",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "待命警察",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星球大战：黑市传说",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "全美缉凶：O·J·辛普森",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "深入北方的小路",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "威斯特夫妇：英国恐怖故事",
+        "output_text": "[\"恐怖\"]"
+    },
+    {
+        "input_text": "转折点：越南战争",
+        "output_text": "[\"转折点\"]"
+    },
+    {
+        "input_text": "狩猎娇妻",
+        "output_text": "[\"娇妻\"]"
+    },
+    {
+        "input_text": "名厨卡雷姆",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "越南：改变美国的战争",
+        "output_text": "[\"改变\"]"
+    },
+    {
+        "input_text": "斯坦利·图齐的意大利美食秘境",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "烟火寻凶",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "猎捕行动",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "金装律师：洛杉矶",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "长路归家",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "纽约家园",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "穿越极致美洲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "极北以北",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "灰色秩序",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "高卢英雄：首领争夺战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "开播诱捕你",
+        "output_text": "[\"诱捕\"]"
+    },
+    {
+        "input_text": "野性生灵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "图书馆员：下一章",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "大卫·布雷恩：请勿尝试",
+        "output_text": "[\"请勿尝试\"]"
+    },
+    {
+        "input_text": "巨钻大盗：千禧奇案解密",
+        "output_text": "[\"奇案\"]"
+    },
+    {
+        "input_text": "驱车向前",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "对话杀人魔：山姆之子访谈录",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "起司美国梦",
+        "output_text": "[\"梦\"]"
+    },
+    {
+        "input_text": "我家那些事",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "好男不低头",
+        "output_text": "[\"好\"]"
+    },
+    {
+        "input_text": "泰勒派瑞之州长小姐",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "华盛顿·布莱克",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "露露是一头犀牛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "另类一家人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "来自过去的信",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "疯狂动物城2",
+        "output_text": "[\"疯狂\"]"
+    },
+    {
+        "input_text": "神奇4侠：初露锋芒",
+        "output_text": "[\"神奇\", \"锋芒\"]"
+    },
+    {
+        "input_text": "美国队长4",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "月光光心慌慌：杀戮",
+        "output_text": "[\"心慌慌\", \"杀戮\"]"
+    },
+    {
+        "input_text": "会计刺客2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "碟中谍8：最终清算",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "疾速追杀外传：芭蕾杀姬",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "地球特派员",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "惊变28年",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "梅根2.0",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "白头神探：智斗灭世狂人",
+        "output_text": "[\"神探\", \"智斗\", \"狂人\"]"
+    },
+    {
+        "input_text": "创：战神",
+        "output_text": "[\"战神\"]"
+    },
+    {
+        "input_text": "黑色电话2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "海绵宝宝：深海大冒险",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "家弑服务",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "粗野派",
+        "output_text": "[\"粗野\"]"
+    },
+    {
+        "input_text": "盟军敢死队",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小丑2: 双重妄想",
+        "output_text": "[\"妄想\"]"
+    },
+    {
+        "input_text": "隔壁房间",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "秘密会议",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "夺命微笑2",
+        "output_text": "[\"夺命\"]"
+    },
+    {
+        "input_text": "异教徒",
+        "output_text": "[\"异教徒\"]"
+    },
+    {
+        "input_text": "毒液：最后一舞",
+        "output_text": "[\"毒\"]"
+    },
+    {
+        "input_text": "玛克辛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "帕丁顿熊3：秘鲁大冒险",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "凯多湖的消失",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "死侍与金刚狼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "无名小辈",
+        "output_text": "[\"无名小辈\"]"
+    },
+    {
+        "input_text": "红色一号：冬日行动",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "双狼",
+        "output_text": "[\"狼\"]"
+    },
+    {
+        "input_text": "非礼勿言",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "变形金刚：起源",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "异形：夺命舰",
+        "output_text": "[\"夺命\"]"
+    },
+    {
+        "input_text": "海洋奇缘2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "狮子王：木法沙传奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "此心安处",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "酷儿",
+        "output_text": "[\"酷儿\"]"
+    },
+    {
+        "input_text": "爱情，到此为止",
+        "output_text": "[\"爱情\"]"
+    },
+    {
+        "input_text": "怪奇大法师",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "指环王：洛汗之战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "刺猬索尼克 3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "角斗士 2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "断魂小丑 3",
+        "output_text": "[\"断魂\"]"
+    },
+    {
+        "input_text": "龙卷风末日",
+        "output_text": "[\"末日\"]"
+    },
+    {
+        "input_text": "九月五日",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "闹事之徒",
+        "output_text": "[\"闹事\"]"
+    },
+    {
+        "input_text": "登月大计划",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "最后的舞女",
+        "output_text": "[\"最后的舞女\"]"
+    },
+    {
+        "input_text": "海绵宝宝：拯救比奇堡",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "夜母",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "守望者（下）",
+        "output_text": "[\"守望者\"]"
+    },
+    {
+        "input_text": "守望者（上）",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "死亡大乐透",
+        "output_text": "[\"死亡\"]"
+    },
+    {
+        "input_text": "马洛谋杀俱乐部",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "夺宝天团",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "多伦多法律与秩序：犯罪倾向",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "羡慕嫉妒恨",
+        "output_text": "[\"羡慕\", \"嫉妒\", \"恨\"]"
+    },
+    {
+        "input_text": "头脑特工队2",
+        "output_text": "[\"特工队\"]"
+    },
+    {
+        "input_text": "神偷奶爸4",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "沙丘2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "养蜂人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "阿盖尔：神秘特工",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鬼圣胎",
+        "output_text": "[\"鬼\"]"
+    },
+    {
+        "input_text": "美国内战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "灭世男孩",
+        "output_text": "[\"灭世\"]"
+    },
+    {
+        "input_text": "猩球崛起：新世界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "绝地战警：生死与共",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "寂静之地：入侵日",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "非常家务事",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "陷阱",
+        "output_text": "[\"陷阱\"]"
+    },
+    {
+        "input_text": "无主之地",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "致命AI",
+        "output_text": "[\"致命\"]"
+    },
+    {
+        "input_text": "某种物质",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "草莓甜心的完美假期",
+        "output_text": "[\"完美\"]"
+    },
+    {
+        "input_text": "爱你的基蒂",
+        "output_text": "[\"爱\"]"
+    },
+    {
+        "input_text": "行尸走肉：死亡之城",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "环法自行车赛：逆风飞驰",
+        "output_text": "[\"逆风飞驰\"]"
+    },
+    {
+        "input_text": "神探特伦特",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "四分卫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "柏拉图关系",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "隔壁夫妇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "银河护卫队3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蚁人与黄蜂女：量子狂潮",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "疾速追杀4",
+        "output_text": "[\"追杀\"]"
+    },
+    {
+        "input_text": "梅根",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "网络谜踪2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "闪婚",
+        "output_text": "[\"闪婚\"]"
+    },
+    {
+        "input_text": "熊嗨了",
+        "output_text": "[\"嗨了\"]"
+    },
+    {
+        "input_text": "盟约",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "速度与激情10",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "变形金刚：超能勇士崛起",
+        "output_text": "[\"崛起\"]"
+    },
+    {
+        "input_text": "疯狂元素城",
+        "output_text": "[\"疯狂\"]"
+    },
+    {
+        "input_text": "夺宝奇兵：命运转盘",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "兜风",
+        "output_text": "[\"兜风\"]"
+    },
+    {
+        "input_text": "碟中谍7：致命清算",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "复仇狗联盟",
+        "output_text": "[\"复仇\"]"
+    },
+    {
+        "input_text": "修女II",
+        "output_text": "[\"修女\"]"
+    },
+    {
+        "input_text": "威尼斯惊魂夜",
+        "output_text": "[\"惊魂\"]"
+    },
+    {
+        "input_text": "傻钱",
+        "output_text": "[\"傻\"]"
+    },
+    {
+        "input_text": "驱魔人：信徒",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔发精灵3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星愿",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "飞鸭向前冲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "海贼王：红发歌姬",
+        "output_text": "[\"红发歌姬\"]"
+    },
+    {
+        "input_text": "维京恶狼",
+        "output_text": "[\"恶\"]"
+    },
+    {
+        "input_text": "海贼王：红发歌姬",
+        "output_text": "[\"红发歌姬\"]"
+    },
+    {
+        "input_text": "侠探杰克",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "熊家餐馆",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "镀金时代",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "我变漂亮的那个夏天",
+        "output_text": "[\"漂亮\"]"
+    },
+    {
+        "input_text": "中情局律师",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "亡者之妻",
+        "output_text": "[\"亡\"]"
+    },
+    {
+        "input_text": "自闭也有爱（美国版）",
+        "output_text": "[\"爱\"]"
+    },
+    {
+        "input_text": "工业光魔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "奇异博士2：疯狂多元宇宙",
+        "output_text": "[\"疯狂\"]"
+    },
+    {
+        "input_text": "侏罗纪世界3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小黄人大眼萌：神偷奶爸前传",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雷神4：爱与雷霆",
+        "output_text": "[\"爱\"]"
+    },
+    {
+        "input_text": "刺猬索尼克2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "穿靴子的猫2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "惊声尖叫",
+        "output_text": "[\"惊\", \"尖叫\"]"
+    },
+    {
+        "input_text": "精灵旅社4：变身大冒险",
+        "output_text": "[\"大冒险\"]"
+    },
+    {
+        "input_text": "瞬息全宇宙",
+        "output_text": "[\"瞬息\"]"
+    },
+    {
+        "input_text": "莫比亚斯：暗夜博士",
+        "output_text": "[\"暗夜\"]"
+    },
+    {
+        "input_text": "阿波罗10½号：太空时代的童年",
+        "output_text": "[\"童年\"]"
+    },
+    {
+        "input_text": "黑色电话",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "杀手疾风号",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "月光光心慌慌：終结",
+        "output_text": "[\"心慌慌\"]"
+    },
+    {
+        "input_text": "生无可恋的奥托",
+        "output_text": "[\"生无可恋\"]"
+    },
+    {
+        "input_text": "白莲花度假村",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "克拉克森的农场",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "绝望写手",
+        "output_text": "[\"绝望\"]"
+    },
+    {
+        "input_text": "金妮与乔治娅",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蜘蛛侠：英雄无归",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "尚气与十环传奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "毒液2",
+        "output_text": "[\"毒液\"]"
+    },
+    {
+        "input_text": "欢乐好声音2",
+        "output_text": "[\"欢乐\"]"
+    },
+    {
+        "input_text": "007：无暇赴死",
+        "output_text": "[\"无暇赴死\"]"
+    },
+    {
+        "input_text": "寂静之地2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蛛丝马迹",
+        "output_text": "[\"蛛丝马迹\"]"
+    },
+    {
+        "input_text": "无依之地",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "猫和老鼠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "海绵宝宝：营救大冒险",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "寻龙传说",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "混沌行走",
+        "output_text": "[\"混沌\"]"
+    },
+    {
+        "input_text": "小人物",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "智能大反攻",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "亡者之师",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑白魔女库伊拉",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "招魂3",
+        "output_text": "[\"招魂\"]"
+    },
+    {
+        "input_text": "杀手妻子的保镖",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "夏日友晴天",
+        "output_text": "[\"友晴天\"]"
+    },
+    {
+        "input_text": "宝贝老板2：家族企业",
+        "output_text": "[\"宝贝\"]"
+    },
+    {
+        "input_text": "空中大灌篮2：新传奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "密室逃生2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "丛林奇航",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "X特遣队：全员集结",
+        "output_text": "[\"集结\"]"
+    },
+    {
+        "input_text": "失控玩家",
+        "output_text": "[\"失控\"]"
+    },
+    {
+        "input_text": "健听女孩",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "糖果人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小马宝莉：新一代",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "纽瓦克众圣",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "月光光心慌慌：杀戮",
+        "output_text": "[\"心慌慌\", \"杀戮\"]"
+    },
+    {
+        "input_text": "沙丘",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天赐灵机",
+        "output_text": "[\"灵机\"]"
+    },
+    {
+        "input_text": "玉面情魔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑客帝国：矩阵重启",
+        "output_text": "[\"重启\"]"
+    },
+    {
+        "input_text": "王牌特工：源起",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "火星：火星上的一天",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "两个遥远的陌生人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "爱情盲选",
+        "output_text": "[\"盲选\"]"
+    },
+    {
+        "input_text": "转生成为了只有乙女游戏破灭Flag的邪恶大小姐",
+        "output_text": "[\"邪恶\"]"
+    },
+    {
+        "input_text": "绝地战警：疾速追击",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "刺猬索尼克",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "猛禽小队和哈莉·奎茵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "多力特的奇幻冒险",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "隐形人",
+        "output_text": "[\"隐形\"]"
+    },
+    {
+        "input_text": "疯狂原始人2",
+        "output_text": "[\"疯狂\"]"
+    },
+    {
+        "input_text": "绅士们",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "梦幻岛",
+        "output_text": "[\"梦幻\"]"
+    },
+    {
+        "input_text": "爱玛。",
+        "output_text": "[\"爱\"]"
+    },
+    {
+        "input_text": "斯宾塞的机密任务",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "猎捕",
+        "output_text": "[\"猎捕\"]"
+    },
+    {
+        "input_text": "魔发精灵2：世界之旅",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美国犯罪的最后日子",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "史泰登岛国王",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "熊熊遇见你电影超棒DER",
+        "output_text": "[\"超棒\"]"
+    },
+    {
+        "input_text": "棕榈泉",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "新变种人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "祖孙大战",
+        "output_text": "[\"大战\"]"
+    },
+    {
+        "input_text": "夺金营救",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "女巫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "让他走",
+        "output_text": "[\"走\"]"
+    },
+    {
+        "input_text": "乡下人的悲歌",
+        "output_text": "[\"悲歌\"]"
+    },
+    {
+        "input_text": "砍人快乐",
+        "output_text": "[\"快乐\"]"
+    },
+    {
+        "input_text": "末日逃生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "世界新闻",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "前程似锦的女孩",
+        "output_text": "[\"似锦\"]"
+    },
+    {
+        "input_text": "心理测量者SS2：第一卫士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "心理测量者SS1：罪与罚",
+        "output_text": "[\"罪\", \"罚\"]"
+    },
+    {
+        "input_text": "心理测量者SS3：在恩怨的彼方",
+        "output_text": "[\"恩怨\"]"
+    },
+    {
+        "input_text": "海豹突击队大战奇妙外星人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "最后的呼吸",
+        "output_text": "[\"最后的呼吸\"]"
+    },
+    {
+        "input_text": "一级方程式：疾速争胜",
+        "output_text": "[\"疾速争胜\"]"
+    },
+    {
+        "input_text": "如何在网上卖迷幻药",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "哈林教父",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "拣选",
+        "output_text": "[\"拣选\"]"
+    },
+    {
+        "input_text": "冰雪奇缘2",
+        "output_text": "[\"奇缘\"]"
+    },
+    {
+        "input_text": "玩具总动员4",
+        "output_text": "[\"总动员\"]"
+    },
+    {
+        "input_text": "惊奇队长",
+        "output_text": "[\"惊奇\"]"
+    },
+    {
+        "input_text": "蜘蛛侠：英雄远征",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小丑",
+        "output_text": "[\"小丑\"]"
+    },
+    {
+        "input_text": "勇敢者游戏2：再战巅峰",
+        "output_text": "[\"勇敢\"]"
+    },
+    {
+        "input_text": "密室逃生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "触不可及",
+        "output_text": "[\"触不可及\"]"
+    },
+    {
+        "input_text": "玻璃先生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "王者少年",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "乐高大电影2",
+        "output_text": "[\"乐\"]"
+    },
+    {
+        "input_text": "冷血追击",
+        "output_text": "[\"冷血\"]"
+    },
+    {
+        "input_text": "忌日快乐2",
+        "output_text": "[\"快乐\"]"
+    },
+    {
+        "input_text": "阿丽塔：战斗天使",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "驯龙高手3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雷霆沙赞！",
+        "output_text": "[\"雷霆\"]"
+    },
+    {
+        "input_text": "宠物坟场",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "全民追女王",
+        "output_text": "[\"追\"]"
+    },
+    {
+        "input_text": "丑娃娃",
+        "output_text": "[\"丑\"]"
+    },
+    {
+        "input_text": "极端邪恶",
+        "output_text": "[\"极端邪恶\"]"
+    },
+    {
+        "input_text": "大侦探皮卡丘",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "疾速备战",
+        "output_text": "[\"疾速备战\"]"
+    },
+    {
+        "input_text": "哥斯拉2：怪兽之王",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "X战警：黑凤凰",
+        "output_text": "[\"黑凤凰\"]"
+    },
+    {
+        "input_text": "爱宠大机密2",
+        "output_text": "[\"爱宠\", \"机密\"]"
+    },
+    {
+        "input_text": "谋杀疑案",
+        "output_text": "[\"谋杀\"]"
+    },
+    {
+        "input_text": "昨日奇迹",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "好莱坞往事",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "速度与激情：特别行动",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "好小子们",
+        "output_text": "[\"好\"]"
+    },
+    {
+        "input_text": "伯纳黛特你去了哪",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天使陷落",
+        "output_text": "[\"陷落\"]"
+    },
+    {
+        "input_text": "星际探索",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "第一滴血5：最后的血",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雪人奇缘",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小怪物",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "双子杀手",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "沉睡魔咒2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "乔乔的异想世界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "电力之战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "布鲁克林秘案",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "去年圣诞",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "救火奶爸",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "极速车王",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "邻里美好的一天",
+        "output_text": "[\"美好\"]"
+    },
+    {
+        "input_text": "黑水",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "利刃出鞘",
+        "output_text": "[\"利刃出鞘\"]"
+    },
+    {
+        "input_text": "教宗的承继",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "理查德·朱维尔的哀歌",
+        "output_text": "[\"哀歌\"]"
+    },
+    {
+        "input_text": "原钻",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "变身特工",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "1917",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "贼巢",
+        "output_text": "[\"贼\"]"
+    },
+    {
+        "input_text": "菜鸟老警",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "菲尔来蹭饭",
+        "output_text": "[\"蹭饭\"]"
+    },
+    {
+        "input_text": "超人总动员2",
+        "output_text": "[\"总动员\"]"
+    },
+    {
+        "input_text": "侏罗纪世界2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "海王",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "绿毛怪格林奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "碟中谍6：全面瓦解",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蚁人2：黄蜂女现身",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "波西米亚狂想曲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "潜伏4",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "12勇士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "15时17分，启程巴黎",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "游戏之夜",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "湮灭",
+        "output_text": "[\"湮灭\"]"
+    },
+    {
+        "input_text": "红雀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "外国佬",
+        "output_text": "[\"佬\"]"
+    },
+    {
+        "input_text": "飓风奇劫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "古墓丽影：源起之战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "爱你，西蒙",
+        "output_text": "[\"爱\"]"
+    },
+    {
+        "input_text": "环太平洋2：雷霆再起",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "淘气大侦探",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "头号玩家",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "寂静之地",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "护航父母",
+        "output_text": "[\"护航\"]"
+    },
+    {
+        "input_text": "你从未在此",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "狂暴巨兽",
+        "output_text": "[\"狂暴\"]"
+    },
+    {
+        "input_text": "塔利",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "终端",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "游侠索罗：星球大战外传",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美国动物",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "瞒天过海：美人计",
+        "output_text": "[\"瞒天过海\", \"美人计\"]"
+    },
+    {
+        "input_text": "阿尔忒弥斯酒店",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "边境杀手2：边境战士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "人类清除计划4",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "精灵旅社3：疯狂假期",
+        "output_text": "[\"疯狂\"]"
+    },
+    {
+        "input_text": "摩天营救",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "别担心，他不会走远的",
+        "output_text": "[\"担心\"]"
+    },
+    {
+        "input_text": "制裁特攻",
+        "output_text": "[\"制裁\"]"
+    },
+    {
+        "input_text": "少年泰坦出击电影版",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "克里斯托弗·罗宾",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "巨齿鲨",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "阿尔法：狼伴归途",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "网络谜踪",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "终点的婚礼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "修女",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "薄荷",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "铁血战士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "滴答屋",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "毒液：致命守护者",
+        "output_text": "[\"致命\"]"
+    },
+    {
+        "input_text": "登月第一人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "皇家酒店谋杀案",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鸡皮疙瘩2：魔书历险",
+        "output_text": "[\"历险\"]"
+    },
+    {
+        "input_text": "你能原谅我吗？",
+        "output_text": "[\"原谅\"]"
+    },
+    {
+        "input_text": "冰海陷落",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "胡桃夹子和四个王国",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "领先者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "霸主",
+        "output_text": "[\"霸主\"]"
+    },
+    {
+        "input_text": "神奇动物：格林德沃之罪",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "以寡敌众",
+        "output_text": "[\"寡\", \"敌\", \"众\"]"
+    },
+    {
+        "input_text": "绿皮书",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "速成家庭",
+        "output_text": "[\"速成\"]"
+    },
+    {
+        "input_text": "无敌破坏王2：大闹互联网",
+        "output_text": "[\"无敌\", \"破坏\", \"大闹\"]"
+    },
+    {
+        "input_text": "奎迪：英雄再起",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "罗宾汉：起源",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "宠儿",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蜘蛛侠：平行宇宙",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "骡子",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "欢乐满人间2",
+        "output_text": "[\"欢乐\"]"
+    },
+    {
+        "input_text": "性别为本",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星球大战：最后的绝地武士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "勇敢者游戏：决战丛林",
+        "output_text": "[\"勇敢\"]"
+    },
+    {
+        "input_text": "蜘蛛侠：英雄归来",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雷神3：诸神黄昏",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神偷奶爸3",
+        "output_text": "[\"神偷\"]"
+    },
+    {
+        "input_text": "分裂",
+        "output_text": "[\"分裂\"]"
+    },
+    {
+        "input_text": "极限特工：终极回归",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "生化危机：终章",
+        "output_text": "[\"危机\"]"
+    },
+    {
+        "input_text": "乐高蝙蝠侠大电影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "疾速特攻",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "五十度黑",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "救命解药",
+        "output_text": "[\"救命\"]"
+    },
+    {
+        "input_text": "逃出絕命鎮",
+        "output_text": "[\"絕命\"]"
+    },
+    {
+        "input_text": "金刚狼3：殊死一战",
+        "output_text": "[\"殊死\"]"
+    },
+    {
+        "input_text": "异星觉醒",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "宝贝老板",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "三个老枪手",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "速度与激情8",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "圆圈",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "亚瑟王：斗兽争霸",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "海滩游侠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "加勒比海盗5：死无对证",
+        "output_text": "[\"死无对证\"]"
+    },
+    {
+        "input_text": "内裤队长",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "新木乃伊",
+        "output_text": "[\"恐怖\"]"
+    },
+    {
+        "input_text": "赛车总动员3：极速挑战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "变形金刚5：最后的骑士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "牡丹花下",
+        "output_text": "[\"牡丹花下\"]"
+    },
+    {
+        "input_text": "劣质爱情",
+        "output_text": "[\"劣质\"]"
+    },
+    {
+        "input_text": "猩球崛起3：终极之战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "许愿",
+        "output_text": "[\"许愿\"]"
+    },
+    {
+        "input_text": "敦刻尔克",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "表情奇幻冒险",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑暗塔",
+        "output_text": "[\"黑暗\"]"
+    },
+    {
+        "input_text": "安娜贝尔2：诞生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "好时光",
+        "output_text": "[\"好\"]"
+    },
+    {
+        "input_text": "王牌保镖",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美国刺客",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "王牌特工2：黄金圈",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "乐高忍者大电影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "性别之战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "忌日快乐",
+        "output_text": "[\"忌日\", \"快乐\"]"
+    },
+    {
+        "input_text": "马斯顿教授和神奇女侠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "全球风暴",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雪人",
+        "output_text": "[\"雪人\"]"
+    },
+    {
+        "input_text": "最后的旗帜",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "伯德小姐",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "三块广告牌",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "寻梦环游记",
+        "output_text": "[\"环游\"]"
+    },
+    {
+        "input_text": "请以你的名字呼唤我",
+        "output_text": "[\"呼唤\"]"
+    },
+    {
+        "input_text": "灾难艺术家",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "水形物语",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "摩天轮",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "我，花样女王",
+        "output_text": "[\"花样女王\"]"
+    },
+    {
+        "input_text": "公牛历险记",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天际浩劫2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "缩小人生",
+        "output_text": "[\"缩小\"]"
+    },
+    {
+        "input_text": "华盛顿邮报",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "金钱世界",
+        "output_text": "[\"贪婪\", \"恐惧\", \"焦虑\", \"渴望\", \"羡慕\", \"嫉妒\", \"满足\", \"幸福\", \"失落\", \"空虚\"]"
+    },
+    {
+        "input_text": "机动战士高达 雷霆宙域 DECEMBER SKY",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "海贼王：黄金城",
+        "output_text": "[\"黄金城\"]"
+    },
+    {
+        "input_text": "月光男孩",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "聚焦",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "致命密函",
+        "output_text": "[\"致命\"]"
+    },
+    {
+        "input_text": "奇迹少女",
+        "output_text": "[\"奇迹\"]"
+    },
+    {
+        "input_text": "牧师神探",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "为奴十二年",
+        "output_text": "[\"为奴\"]"
+    },
+    {
+        "input_text": "逃离德黑兰",
+        "output_text": "[\"逃离\"]"
+    },
+    {
+        "input_text": "鲁保罗变装皇后秀全明星",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "艺术家",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "国王的演讲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "危機倒數",
+        "output_text": "[\"危機\"]"
+    },
+    {
+        "input_text": "貧民百萬富翁",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "月球大冒险",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "險路勿近",
+        "output_text": "[\"險\", \"勿近\"]"
+    },
+    {
+        "input_text": "哈利·波特与凤凰社",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "飞哥与小佛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "无间行者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "衝擊效應",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "登峰造擊",
+        "output_text": "[\"登峰造擊\"]"
+    },
+    {
+        "input_text": "恋恋笔记本",
+        "output_text": "[\"恋恋\"]"
+    },
+    {
+        "input_text": "指环王3：王者无敌",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "指环王：王者归来",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美丽心灵",
+        "output_text": "[\"美丽\"]"
+    },
+    {
+        "input_text": "角斗士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美国丽人",
+        "output_text": "[\"丽人\"]"
+    },
+    {
+        "input_text": "恶搞之家",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "莎翁情史",
+        "output_text": "[\"情史\"]"
+    },
+    {
+        "input_text": "天生一对",
+        "output_text": "[\"天生一对\"]"
+    },
+    {
+        "input_text": "无声的证言",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "勇敢的心",
+        "output_text": "[\"勇敢\"]"
+    },
+    {
+        "input_text": "辛德勒的名单",
+        "output_text": "[\"辛酸\", \"悲愤\", \"同情\", \"震撼\", \"哀伤\"]"
+    },
+    {
+        "input_text": "不可饶恕",
+        "output_text": "[\"不可饶恕\"]"
+    },
+    {
+        "input_text": "为黛茜小姐开车",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雨人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "野战排",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "活死人归来",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "走出非洲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "母女情深",
+        "output_text": "[\"情深\"]"
+    },
+    {
+        "input_text": "甘地传",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "克莱默夫妇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "猎鹿人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "安妮·霍尔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "骗中骗",
+        "output_text": "[\"骗\"]"
+    },
+    {
+        "input_text": "法国贩毒网",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "巴顿将军",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雾都孤儿",
+        "output_text": "[\"孤儿\"]"
+    },
+    {
+        "input_text": "炎热的夜晚",
+        "output_text": "[\"炎热\"]"
+    },
+    {
+        "input_text": "音乐之声",
+        "output_text": "[\"音乐之声\"]"
+    },
+    {
+        "input_text": "西区故事",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "公寓春光",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "环游世界八十天",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "戏中之王",
+        "output_text": "[\"王\"]"
+    },
+    {
+        "input_text": "一个美国人在巴黎",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "翡翠谷",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "气壮山河",
+        "output_text": "[\"气壮山河\"]"
+    },
+    {
+        "input_text": "大饭店",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "红伶秘史",
+        "output_text": "[\"秘史\"]"
+    },
+    {
+        "input_text": "日出",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "翼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "壮志千秋",
+        "output_text": "[\"壮志\"]"
+    },
+    {
+        "input_text": "小凯撒",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "国民公敌",
+        "output_text": "[\"公敌\"]"
+    },
+    {
+        "input_text": "疤面人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "男人世界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "左拉传",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "白雪公主与七个小矮人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "无形的枷锁",
+        "output_text": "[\"枷锁\"]"
+    },
+    {
+        "input_text": "私枭血",
+        "output_text": "[\"血\"]"
+    },
+    {
+        "input_text": "海外特派员",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "忠勇之家",
+        "output_text": "[\"忠勇\"]"
+    },
+    {
+        "input_text": "煤气灯下",
+        "output_text": "[\"恐惧\", \"不安\"]"
+    },
+    {
+        "input_text": "唐老鸭庆生记",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "吉尔达",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "生活多美好",
+        "output_text": "[\"美好\"]"
+    },
+    {
+        "input_text": "米奇与魔豆",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "歼匪喋血战",
+        "output_text": "[\"喋血\"]"
+    },
+    {
+        "input_text": "第三人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "正午",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雨中曲",
+        "output_text": "[\"曲\"]"
+    },
+    {
+        "input_text": "乱世忠魂",
+        "output_text": "[\"忠魂\"]"
+    },
+    {
+        "input_text": "罗马假日",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小姐与流浪汉",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "马蒂",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "环游世界八十天",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "睡美人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "豪勇七蛟龙",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "斯巴达克斯",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蒂凡尼的早餐",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "101忠狗",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "最长的一天",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "阿拉伯的劳伦斯",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "一枝梨花压海棠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "诺博士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "来自俄罗斯的爱情",
+        "output_text": "[\"爱情\"]"
+    },
+    {
+        "input_text": "石中剑",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "金手指",
+        "output_text": "[\"金手指\"]"
+    },
+    {
+        "input_text": "四季之人",
+        "output_text": "[\"厌恶\", \"憎恶\", \"恨\", \"讨厌\", \"恨之入骨\"]"
+    },
+    {
+        "input_text": "黄金三镖客",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "森林王子",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雷霆谷",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "情人节大屠杀",
+        "output_text": "[\"大屠杀\"]"
+    },
+    {
+        "input_text": "西部往事",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "虎豹小霸王",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "射马记",
+        "output_text": "[\"记\"]"
+    },
+    {
+        "input_text": "女王密使",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "猫儿历险记",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "永远的钻石",
+        "output_text": "[\"永远的钻石\"]"
+    },
+    {
+        "input_text": "法国贩毒网",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "往日情怀",
+        "output_text": "[\"情怀\"]"
+    },
+    {
+        "input_text": "你死我活",
+        "output_text": "[\"死\", \"活\"]"
+    },
+    {
+        "input_text": "金枪客",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "法国贩毒网2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "出租车司机",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "纽约，纽约",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "救难小英雄 (迪士尼)",
+        "output_text": "[\"救难\", \"英雄\"]"
+    },
+    {
+        "input_text": "太空城",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "007之最高机密",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "烈火战车",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超人2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "愤怒的公牛",
+        "output_text": "[\"愤怒\"]"
+    },
+    {
+        "input_text": "狐狸与猎狗",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "银翼杀手",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星球大战VI：绝地归来",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "八爪女",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "克莉丝汀魅力",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "比佛利山警探",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "夺宝奇兵2：魔域奇兵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美国往事",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "越战先锋",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "终结者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "走出非洲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雷霆杀机",
+        "output_text": "[\"杀机\"]"
+    },
+    {
+        "input_text": "黑神锅传奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "下班后",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "妙妙探",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "伴我同行",
+        "output_text": "[\"同行\"]"
+    },
+    {
+        "input_text": "玫瑰之名",
+        "output_text": "[\"名\"]"
+    },
+    {
+        "input_text": "教会",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "铁面无私",
+        "output_text": "[\"铁面无私\"]"
+    },
+    {
+        "input_text": "全金属外壳",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黎明杀机",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超人4：和平任务",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "机器战警",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "谋害老妈",
+        "output_text": "[\"谋害\"]"
+    },
+    {
+        "input_text": "雨人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "阴间大法师",
+        "output_text": "[\"阴间\"]"
+    },
+    {
+        "input_text": "谁陷害了兔子罗杰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "奥丽华历险记",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "夺宝奇兵3：圣战奇兵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "杀人执照",
+        "output_text": "[\"杀人\"]"
+    },
+    {
+        "input_text": "当哈利碰上莎莉",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "漂亮女人",
+        "output_text": "[\"漂亮\"]"
+    },
+    {
+        "input_text": "小美人鱼",
+        "output_text": "[\"美人鱼\"]"
+    },
+    {
+        "input_text": "全面回忆",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天堂电影院",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "好家伙",
+        "output_text": "[\"好家伙\"]"
+    },
+    {
+        "input_text": "铁血战士2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "米勒的十字路口",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "剪刀手爱德华",
+        "output_text": "[\"爱德华\"]"
+    },
+    {
+        "input_text": "终结者2：审判日",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "巴顿·芬克",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "绝地双尊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "我私人的爱达荷",
+        "output_text": "[\"爱\"]"
+    },
+    {
+        "input_text": "异形3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "爱国者游戏",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "闻香识女人",
+        "output_text": "[\"闻香识女人\"]"
+    },
+    {
+        "input_text": "西雅图夜未眠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "土拨鼠之日",
+        "output_text": "[\"土拨鼠之日\"]"
+    },
+    {
+        "input_text": "布朗克斯的故事",
+        "output_text": "[\"故事\"]"
+    },
+    {
+        "input_text": "超级战警",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小鬼当街",
+        "output_text": "[\"当街\"]"
+    },
+    {
+        "input_text": "肖申克的救赎",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "艾德·伍德",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黄金眼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "玩具总动员",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "阿波罗13号",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "捍卫机密",
+        "output_text": "[\"捍卫\"]"
+    },
+    {
+        "input_text": "普通嫌疑犯",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "矮子当道",
+        "output_text": "[\"矮子当道\"]"
+    },
+    {
+        "input_text": "勇闯夺命岛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "碟中谍",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "王牌特派员",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "终极悍将",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "极度冒险",
+        "output_text": "[\"冒险\"]"
+    },
+    {
+        "input_text": "英国病人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "心灵捕手",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "空中大灌篮",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "侏罗纪公园：失落的世界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "双重火力",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "王牌大贱谍",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "空中监狱",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑洞表面",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "洛城机密",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "千钧一发",
+        "output_text": "[\"千钧一发\"]"
+    },
+    {
+        "input_text": "我知道你去年夏天干了什么",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔鬼代言人",
+        "output_text": "[\"魔鬼\"]"
+    },
+    {
+        "input_text": "世界末日",
+        "output_text": "[\"末日\"]"
+    },
+    {
+        "input_text": "尖峰时刻",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "达赖的一生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "拯救大兵瑞恩",
+        "output_text": "[\"拯救\"]"
+    },
+    {
+        "input_text": "婚礼歌手",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "风起云涌",
+        "output_text": "[\"风起云涌\"]"
+    },
+    {
+        "input_text": "谋杀绿脚趾",
+        "output_text": "[\"谋杀\"]"
+    },
+    {
+        "input_text": "马语者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "异次元杀阵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "刀锋战士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美国X档案",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "狮子王2：辛巴的荣耀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "第六感生死缘",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美丽人生",
+        "output_text": "[\"美丽\"]"
+    },
+    {
+        "input_text": "兵人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "莎翁情史",
+        "output_text": "[\"情史\"]"
+    },
+    {
+        "input_text": "我仍然知道你去年夏天干了什么",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "王牌大贱谍2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "玩具总动员2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星球大战I：魅影危机",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑客帝国",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "第六感",
+        "output_text": "[\"第六感\"]"
+    },
+    {
+        "input_text": "一吻定江山",
+        "output_text": "[\"定江山\"]"
+    },
+    {
+        "input_text": "诺丁山",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "异次元骇客",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "罗拉快跑",
+        "output_text": "[\"快跑\"]"
+    },
+    {
+        "input_text": "搏击俱乐部",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "成为约翰·马尔科维奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "穿梭阴阳界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "断头谷",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天才瑞普利",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "荒岛余生",
+        "output_text": "[\"荒岛余生\"]"
+    },
+    {
+        "input_text": "惊声尖笑",
+        "output_text": "[\"惊\", \"尖笑\"]"
+    },
+    {
+        "input_text": "拜见岳父大人1",
+        "output_text": "[\"拜见\"]"
+    },
+    {
+        "input_text": "完美风暴",
+        "output_text": "[\"完美\"]"
+    },
+    {
+        "input_text": "碟中谍2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "X战警",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "抢钱大作战",
+        "output_text": "[\"抢钱\"]"
+    },
+    {
+        "input_text": "黑洞频率",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "地球战场",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小鸡快跑",
+        "output_text": "[\"快跑\"]"
+    },
+    {
+        "input_text": "冰冻星球",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "恐龙",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "几近成名",
+        "output_text": "[\"成名\"]"
+    },
+    {
+        "input_text": "变身国王",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "102真狗",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "惊心动魄",
+        "output_text": "[\"惊心动魄\"]"
+    },
+    {
+        "input_text": "特工佳丽",
+        "output_text": "[\"佳丽\"]"
+    },
+    {
+        "input_text": "尖峰时刻2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "木乃伊归来",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "史莱克",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "怪兽电力公司",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "汉尼拔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "指环王：护戒使者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "特务小子",
+        "output_text": "[\"小子\"]"
+    },
+    {
+        "input_text": "记忆碎片",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "公主日记",
+        "output_text": "[\"公主\"]"
+    },
+    {
+        "input_text": "幽灵世界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "亚特兰蒂斯：失落的帝国",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "训练日",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "白烂贱客",
+        "output_text": "[\"白烂\", \"贱客\"]"
+    },
+    {
+        "input_text": "深入敌后",
+        "output_text": "[\"敌后\"]"
+    },
+    {
+        "input_text": "天才一族",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "非常男女",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "王牌大贱谍3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天兆",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冰川时代",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "指环王：双塔奇兵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星球大战II：克隆人的进攻",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "战栗空间",
+        "output_text": "[\"战栗\"]"
+    },
+    {
+        "input_text": "小马王",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "恐惧的总和",
+        "output_text": "[\"恐惧\"]"
+    },
+    {
+        "input_text": "生化危机",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星际宝贝",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "飞天小女警大电影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "少数派报告",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "毁灭之路",
+        "output_text": "[\"毁灭\"]"
+    },
+    {
+        "input_text": "幽灵船",
+        "output_text": "[\"幽灵\"]"
+    },
+    {
+        "input_text": "8英里",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星银岛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "时时刻刻",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "猫鼠游戏",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "择日而亡",
+        "output_text": "[\"亡\"]"
+    },
+    {
+        "input_text": "冒牌天神",
+        "output_text": "[\"冒牌\"]"
+    },
+    {
+        "input_text": "改编剧本",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "加勒比海盗：鬼盗船魔咒",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "终结者3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "海底总动员",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "钢琴家",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "上帝之城",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑客帝国3：矩阵革命",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "上海正午2：上海骑士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "夏洛特的网2 威尔伯历险记",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "捉梦人",
+        "output_text": "[\"捉梦人\"]"
+    },
+    {
+        "input_text": "狙击电话亭",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "憨豆特工",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "古墓丽影2：生命的摇篮",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "房间",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "火柴人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "反恐特警组",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "外星神犬",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "杀死比尔",
+        "output_text": "[\"杀死\"]"
+    },
+    {
+        "input_text": "墨西哥往事",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "真爱至上",
+        "output_text": "[\"真爱\"]"
+    },
+    {
+        "input_text": "巨星总动员",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "戴珍珠耳环的少女",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鬼屋",
+        "output_text": "[\"鬼屋\"]"
+    },
+    {
+        "input_text": "女魔头",
+        "output_text": "[\"女魔头\"]"
+    },
+    {
+        "input_text": "冷山",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "大鱼",
+        "output_text": "[\"大鱼\"]"
+    },
+    {
+        "input_text": "超人总动员",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "国家宝藏",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "后天",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "拜见岳父大人2",
+        "output_text": "[\"拜见\"]"
+    },
+    {
+        "input_text": "极地特快",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蝴蝶效应",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "初恋50次",
+        "output_text": "[\"初恋\"]"
+    },
+    {
+        "input_text": "暖暖内含光",
+        "output_text": "[\"暖暖\"]"
+    },
+    {
+        "input_text": "老妇杀手",
+        "output_text": "[\"杀手\"]"
+    },
+    {
+        "input_text": "杀死比尔2",
+        "output_text": "[\"杀死\"]"
+    },
+    {
+        "input_text": "范海辛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "婴魂",
+        "output_text": "[\"魂\"]"
+    },
+    {
+        "input_text": "特洛伊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星际传奇2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "幸福终点站",
+        "output_text": "[\"幸福\"]"
+    },
+    {
+        "input_text": "加菲猫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "亚瑟王",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "华氏9/11",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "寡居的一年",
+        "output_text": "[\"寡居\"]"
+    },
+    {
+        "input_text": "神秘村",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "异形大战铁血战士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "借刀杀人",
+        "output_text": "[\"杀\"]"
+    },
+    {
+        "input_text": "一线声机",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "生化危机2：启示录",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "僵尸肖恩",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鲨鱼黑帮",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "摩托日记",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "寻找梦幻岛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "谁来陪我过圣诞",
+        "output_text": "[\"陪\"]"
+    },
+    {
+        "input_text": "日落之后",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "BJ单身日记2：理性边缘",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "凤凰劫",
+        "output_text": "[\"劫\"]"
+    },
+    {
+        "input_text": "刀锋战士3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星球大战III：西斯的复仇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "世界之战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "海绵宝宝电影版",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "纳尼亚传奇：狮子·女巫·魔衣橱",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蝙蝠侠：侠影之谜",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "翻译风波",
+        "output_text": "[\"风波\"]"
+    },
+    {
+        "input_text": "神勇奶爸",
+        "output_text": "[\"神勇\"]"
+    },
+    {
+        "input_text": "哈尔的移动城堡",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "泰山2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神奇四侠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "不朽的园丁",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超级无敌掌门狗：人兔的诅咒",
+        "output_text": "[\"诅咒\"]"
+    },
+    {
+        "input_text": "冲出宁静号",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "四眼天鸡",
+        "output_text": "[\"天鸡\"]"
+    },
+    {
+        "input_text": "僵尸新娘",
+        "output_text": "[\"新娘\"]"
+    },
+    {
+        "input_text": "快乐的大脚",
+        "output_text": "[\"快乐\"]"
+    },
+    {
+        "input_text": "冰川时代2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "当幸福来敲门",
+        "output_text": "[\"幸福\"]"
+    },
+    {
+        "input_text": "X战警3：最后之战",
+        "output_text": "[\"最后之战\"]"
+    },
+    {
+        "input_text": "超人归来",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "感谢你抽烟",
+        "output_text": "[\"感谢\"]"
+    },
+    {
+        "input_text": "篱笆墙外",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "加菲猫：双猫记",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "速度与激情：东京漂移",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "牧场之家好做伴",
+        "output_text": "[\"好\"]"
+    },
+    {
+        "input_text": "湖边小屋",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "人生遥控器",
+        "output_text": "[\"遥控器\"]"
+    },
+    {
+        "input_text": "怪兽屋",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "水中女妖",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "阳光小美女",
+        "output_text": "[\"小美女\"]"
+    },
+    {
+        "input_text": "航班蛇患",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑色大丽花",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "父辈的旗帜",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "致命魔术",
+        "output_text": "[\"致命\"]"
+    },
+    {
+        "input_text": "通天塔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冲走小老鼠",
+        "output_text": "[\"冲走\"]"
+    },
+    {
+        "input_text": "美好的一年",
+        "output_text": "[\"美好\"]"
+    },
+    {
+        "input_text": "特务风云",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "怪物史莱克3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "人类之子",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鼠来宝",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "国家宝藏2：夺宝秘笈",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "加勒比海盗3：世界的尽头",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "K歌情人",
+        "output_text": "[\"情人\"]"
+    },
+    {
+        "input_text": "十二宫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "拜见罗宾逊一家 (动画)",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冒牌天神2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冲浪企鹅",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美食总动员",
+        "output_text": "[\"总动员\"]"
+    },
+    {
+        "input_text": "美味情缘",
+        "output_text": "[\"美味\"]"
+    },
+    {
+        "input_text": "太阳浩劫",
+        "output_text": "[\"浩劫\"]"
+    },
+    {
+        "input_text": "虎胆龙威4",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神奇四侠2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "尖峰时刻3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "穿越大吉岭",
+        "output_text": "[\"大吉\"]"
+    },
+    {
+        "input_text": "三十极夜",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "生化危机3：灭绝",
+        "output_text": "[\"灭绝\"]"
+    },
+    {
+        "input_text": "电锯惊魂4",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美国黑帮",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "杀手：代号47",
+        "output_text": "[\"杀手\"]"
+    },
+    {
+        "input_text": "贝奥武夫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑暗物质三部曲之金罗盘",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "P.S. 我爱你",
+        "output_text": "[\"爱\"]"
+    },
+    {
+        "input_text": "血色将至",
+        "output_text": "[\"血色\"]"
+    },
+    {
+        "input_text": "蝙蝠侠：黑暗骑士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "马达加斯加2：逃往非洲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "机器人总动员",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "功夫熊猫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "理发师陶德",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "科洛弗档案",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "这不是斯巴达",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "007：大破量子危机",
+        "output_text": "[\"大破\"]"
+    },
+    {
+        "input_text": "27套礼服",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "时空骇客",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "在布鲁日",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超级英雄",
+        "output_text": "[\"超级英雄\"]"
+    },
+    {
+        "input_text": "街头之王",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "欲望都市",
+        "output_text": "[\"欲望\"]"
+    },
+    {
+        "input_text": "地狱男爵2：黄金军团",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "通缉令",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "热带惊雷",
+        "output_text": "[\"惊雷\"]"
+    },
+    {
+        "input_text": "曼谷杀手",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "谎言之躯",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鹰眼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "马克思·佩恩",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "换子疑云",
+        "output_text": "[\"疑云\"]"
+    },
+    {
+        "input_text": "穿条纹睡衣的男孩",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "闪电狗",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "朗读者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "米尔克",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "澳洲乱世情",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "返老还童",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "没问题先生",
+        "output_text": "[\"没问题\"]"
+    },
+    {
+        "input_text": "哈利·波特与混血王子",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "宿醉",
+        "output_text": "[\"宿醉\"]"
+    },
+    {
+        "input_text": "行动目标希特勒",
+        "output_text": "[\"希特勒\"]"
+    },
+    {
+        "input_text": "弱点",
+        "output_text": "[\"弱点\"]"
+    },
+    {
+        "input_text": "鼠来宝：明星俱乐部",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "变形金刚2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "暮光之城2：新月",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "丛林大反攻2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鬼妈妈",
+        "output_text": "[\"鬼\"]"
+    },
+    {
+        "input_text": "异能",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星际迷航",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "守望者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "先知",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "大战外星人",
+        "output_text": "[\"大战\"]"
+    },
+    {
+        "input_text": "赛车风云",
+        "output_text": "[\"风云\"]"
+    },
+    {
+        "input_text": "寻找伴郎",
+        "output_text": "[\"寻找\"]"
+    },
+    {
+        "input_text": "控制的极限",
+        "output_text": "[\"极限\"]"
+    },
+    {
+        "input_text": "月球",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "金刚狼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "终结者2018",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冰川时代3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "求婚女魔头",
+        "output_text": "[\"魔头\"]"
+    },
+    {
+        "input_text": "布鲁诺",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "第九区",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "无耻混蛋",
+        "output_text": "[\"无耻\"]"
+    },
+    {
+        "input_text": "崖上的波妞",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "特种部队：眼镜蛇的崛起",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天地逃生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "剩女大作战",
+        "output_text": "[\"剩女\", \"大作战\"]"
+    },
+    {
+        "input_text": "制造伍德斯托克音乐节",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "灵动：鬼影实录",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "未来战警",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "僵尸之地",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天降美食",
+        "output_text": "[\"美食\"]"
+    },
+    {
+        "input_text": "严肃的男人",
+        "output_text": "[\"严肃\"]"
+    },
+    {
+        "input_text": "守法公民",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "电锯惊魂6",
+        "output_text": "[\"惊魂\"]"
+    },
+    {
+        "input_text": "51号星球",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "2012",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "可爱的骨头",
+        "output_text": "[\"可爱\"]"
+    },
+    {
+        "input_text": "了不起的狐狸爸爸",
+        "output_text": "[\"了不起\"]"
+    },
+    {
+        "input_text": "蒸发的摩根夫妇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "暮光之城3：月食",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "哈利·波特与死亡圣器（上）",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "疯狂的心",
+        "output_text": "[\"疯狂\"]"
+    },
+    {
+        "input_text": "钢铁侠2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神偷奶爸",
+        "output_text": "[\"神偷\"]"
+    },
+    {
+        "input_text": "盗梦空间",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "怪物史莱克4",
+        "output_text": "[\"怪物\"]"
+    },
+    {
+        "input_text": "玩具总动员3",
+        "output_text": "[\"总动员\"]"
+    },
+    {
+        "input_text": "嗜血破晓",
+        "output_text": "[\"嗜血\"]"
+    },
+    {
+        "input_text": "艾利之书",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "禁闭岛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "情人节",
+        "output_text": "[\"情人节\"]"
+    },
+    {
+        "input_text": "重生男人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "格林伯格",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "绝命反击",
+        "output_text": "[\"绝命反击\"]"
+    },
+    {
+        "input_text": "波斯王子：时之刃",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天龙特工队",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "海扁王",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "危情谍战",
+        "output_text": "[\"危情\"]"
+    },
+    {
+        "input_text": "特工绍特",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "新铁血战士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "最后的风之子",
+        "output_text": "[\"风之子\"]"
+    },
+    {
+        "input_text": "敢死队",
+        "output_text": "[\"敢死\"]"
+    },
+    {
+        "input_text": "地海战记",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "生化危机4：来生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "歪小子斯科特对抗全世界",
+        "output_text": "[\"对抗\"]"
+    },
+    {
+        "input_text": "电梯里的恶魔",
+        "output_text": "[\"恶魔\"]"
+    },
+    {
+        "input_text": "猫头鹰王国：守卫者传奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "华尔街2：金钱永不眠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "生人勿进",
+        "output_text": "[\"生人勿进\"]"
+    },
+    {
+        "input_text": "灵动：鬼影实录2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "电锯惊魂7",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "我们所知道的生活",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超级大坏蛋",
+        "output_text": "[\"坏蛋\"]"
+    },
+    {
+        "input_text": "从今以后",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "爱情与灵药",
+        "output_text": "[\"爱情\", \"灵药\"]"
+    },
+    {
+        "input_text": "创：战纪",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "致命伴旅",
+        "output_text": "[\"致命\"]"
+    },
+    {
+        "input_text": "拜见岳父大人3",
+        "output_text": "[\"拜见\"]"
+    },
+    {
+        "input_text": "变形金刚3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "速度与激情5",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "大侦探福尔摩斯2：诡影游戏",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "赛车总动员2",
+        "output_text": "[\"总动员\"]"
+    },
+    {
+        "input_text": "加勒比海盗：惊涛怪浪",
+        "output_text": "[\"惊涛怪浪\"]"
+    },
+    {
+        "input_text": "暮光之城4：破晓（上）",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "关键第四号",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "兰戈",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "偷情许可证",
+        "output_text": "[\"偷情\"]"
+    },
+    {
+        "input_text": "洛杉矶之战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雷神",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "源代码",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "永无止境",
+        "output_text": "[\"永无止境\"]"
+    },
+    {
+        "input_text": "潜伏",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "驱魔者",
+        "output_text": "[\"驱魔\"]"
+    },
+    {
+        "input_text": "功夫熊猫2",
+        "output_text": "[\"熊猫\"]"
+    },
+    {
+        "input_text": "伴娘",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超级八",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "初学者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美国队长",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "恶老板",
+        "output_text": "[\"恶\"]"
+    },
+    {
+        "input_text": "牛仔和外星人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "朋友也上床",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "死神来了5",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "勇士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "亡命驾驶",
+        "output_text": "[\"亡命\"]"
+    },
+    {
+        "input_text": "抗癌的我",
+        "output_text": "[\"抗癌\"]"
+    },
+    {
+        "input_text": "商海通牒",
+        "output_text": "[\"通牒\"]"
+    },
+    {
+        "input_text": "惊天战神",
+        "output_text": "[\"惊天\"]"
+    },
+    {
+        "input_text": "亚瑟·圣诞",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "时间规划局",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雨果",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "胡佛传",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "战马",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "丁丁历险记",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "至暗之时",
+        "output_text": "[\"至暗\"]"
+    },
+    {
+        "input_text": "鼠来宝3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "霍比特人：意外之旅",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "007：大破天幕杀机",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "特别响，非常近",
+        "output_text": "[\"响\"]"
+    },
+    {
+        "input_text": "蝙蝠侠：黑暗骑士崛起",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超凡蜘蛛侠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "马达加斯加3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "勇敢传说",
+        "output_text": "[\"勇敢\"]"
+    },
+    {
+        "input_text": "誓约",
+        "output_text": "[\"誓约\"]"
+    },
+    {
+        "input_text": "暮光之城4：破晓（下）",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超能失控",
+        "output_text": "[\"失控\"]"
+    },
+    {
+        "input_text": "勇者行动",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "特工争风",
+        "output_text": "[\"争风\"]"
+    },
+    {
+        "input_text": "龙虎少年队",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "诸神之怒",
+        "output_text": "[\"怒\"]"
+    },
+    {
+        "input_text": "神奇海盗团",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "白雪公主与猎人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "月升王国",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔力麦克",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "谍影重重4：伯恩的遗产",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "致命急件",
+        "output_text": "[\"致命\"]"
+    },
+    {
+        "input_text": "通灵男孩诺曼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "敢死队2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "死魂盒",
+        "output_text": "[\"死魂\"]"
+    },
+    {
+        "input_text": "生化危机5：惩罚",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "曲线难题",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "警戒结束",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "壁花少年",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "完美音调",
+        "output_text": "[\"完美\"]"
+    },
+    {
+        "input_text": "七人失心疯",
+        "output_text": "[\"失心疯\"]"
+    },
+    {
+        "input_text": "精灵旅社",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "少年派的奇幻漂流",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "温柔杀戮",
+        "output_text": "[\"温柔\", \"杀戮\"]"
+    },
+    {
+        "input_text": "守护者联盟",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "乌云背后的幸福线",
+        "output_text": "[\"幸福\"]"
+    },
+    {
+        "input_text": "被解救的姜戈",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "猎杀本·拉登",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "钢铁侠3",
+        "output_text": "[\"钢铁侠\"]"
+    },
+    {
+        "input_text": "超人：钢铁之躯",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "霍比特人：史矛革之战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "地心引力",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "韩赛尔与格蕾特：女巫猎人",
+        "output_text": "[\"猎人\"]"
+    },
+    {
+        "input_text": "电影43",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "匪帮传奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "爱情避风港",
+        "output_text": "[\"爱情\", \"避风港\"]"
+    },
+    {
+        "input_text": "美丽生灵",
+        "output_text": "[\"美丽\"]"
+    },
+    {
+        "input_text": "21岁派对",
+        "output_text": "[\"派对\"]"
+    },
+    {
+        "input_text": "斯托克",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "身份窃贼",
+        "output_text": "[\"窃贼\"]"
+    },
+    {
+        "input_text": "奥林匹斯的陷落",
+        "output_text": "[\"陷落\"]"
+    },
+    {
+        "input_text": "疯狂原始人",
+        "output_text": "[\"疯狂\"]"
+    },
+    {
+        "input_text": "宿主",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "松林外",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "遗落战境",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "特种部队2：全面反击",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "付出与收获",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星际迷航：暗黑无界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "重返地球",
+        "output_text": "[\"重返\"]"
+    },
+    {
+        "input_text": "弗兰西丝·哈",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "出神入化",
+        "output_text": "[\"出神入化\"]"
+    },
+    {
+        "input_text": "人类清除计划",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "森林战士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "世界末日",
+        "output_text": "[\"末日\"]"
+    },
+    {
+        "input_text": "僵尸世界大战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "赤焰战场2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "双龙出手",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蓝色茉莉",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "极速蜗牛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "招魂",
+        "output_text": "[\"招魂\"]"
+    },
+    {
+        "input_text": "极乐空间",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冒牌家庭",
+        "output_text": "[\"冒牌\"]"
+    },
+    {
+        "input_text": "天降美食2",
+        "output_text": "[\"美食\"]"
+    },
+    {
+        "input_text": "菲利普船长",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星际传奇3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑金杀机",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "时空恋旅人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "金蝉脱壳",
+        "output_text": "[\"脱壳\"]"
+    },
+    {
+        "input_text": "弯刀杀戮",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "达拉斯买家俱乐部",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "危机解密",
+        "output_text": "[\"危机\"]"
+    },
+    {
+        "input_text": "雷神2：黑暗世界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美国骗局",
+        "output_text": "[\"骗局\"]"
+    },
+    {
+        "input_text": "情动假日",
+        "output_text": "[\"情动\"]"
+    },
+    {
+        "input_text": "变形金刚4：绝迹重生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "饥饿游戏3：嘲笑鸟（上）",
+        "output_text": "[\"嘲笑\"]"
+    },
+    {
+        "input_text": "沉睡魔咒",
+        "output_text": "[\"魔咒\"]"
+    },
+    {
+        "input_text": "乐高大电影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "霍比特人：五军之战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超能陆战队",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "庞贝末日",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "特务杀很大",
+        "output_text": "[\"杀很大\"]"
+    },
+    {
+        "input_text": "诺亚方舟：创世之旅",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "破坏者",
+        "output_text": "[\"破坏者\"]"
+    },
+    {
+        "input_text": "300勇士：帝国崛起",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "分歧者：异类觉醒",
+        "output_text": "[\"分歧者\", \"异类\", \"觉醒\"]"
+    },
+    {
+        "input_text": "西部的一百万种死法",
+        "output_text": "[\"死法\"]"
+    },
+    {
+        "input_text": "龙虎少年队2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "落魄大厨",
+        "output_text": "[\"落魄\"]"
+    },
+    {
+        "input_text": "明日边缘",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "驯龙高手2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超凡蜘蛛侠2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雪国列车",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "人类清除计划2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "性爱录像带",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超体",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "伸冤人",
+        "output_text": "[\"冤\"]"
+    },
+    {
+        "input_text": "记忆传授人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "行过死荫之地",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "安娜贝尔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "盒子怪",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "亚历山大和他最糟糕的一天",
+        "output_text": "[\"糟糕\"]"
+    },
+    {
+        "input_text": "疾速追杀",
+        "output_text": "[\"疾速\", \"追杀\"]"
+    },
+    {
+        "input_text": "青龙复仇",
+        "output_text": "[\"复仇\"]"
+    },
+    {
+        "input_text": "法老与众神",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "大眼睛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "采访",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "恶老板2",
+        "output_text": "[\"恶\"]"
+    },
+    {
+        "input_text": "马达加斯加的企鹅",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "坚不可摧",
+        "output_text": "[\"坚不可摧\"]"
+    },
+    {
+        "input_text": "新蝙蝠侠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "海底总动员2：多莉去哪儿",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "死侍",
+        "output_text": "[\"死\"]"
+    },
+    {
+        "input_text": "蝙蝠侠大战超人：正义黎明",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "自杀小队",
+        "output_text": "[\"自杀\"]"
+    },
+    {
+        "input_text": "星球大战外传：侠盗一号",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "爱宠大机密",
+        "output_text": "[\"爱宠\"]"
+    },
+    {
+        "input_text": "美国队长3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "凯撒万岁！",
+        "output_text": "[\"万岁\"]"
+    },
+    {
+        "input_text": "第五波",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "傲慢与偏见与僵尸",
+        "output_text": "[\"傲慢\", \"偏见\"]"
+    },
+    {
+        "input_text": "神战：权力之眼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "红色警戒999",
+        "output_text": "[\"警戒\"]"
+    },
+    {
+        "input_text": "科洛弗道10号",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "伦敦陷落",
+        "output_text": "[\"陷落\"]"
+    },
+    {
+        "input_text": "硬核大战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "分歧者3：忠诚世界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超脑48小时",
+        "output_text": "[\"超脑\"]"
+    },
+    {
+        "input_text": "破碎人生",
+        "output_text": "[\"破碎\"]"
+    },
+    {
+        "input_text": "猎神：冬日之战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "国王的全息图",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "致命邀请",
+        "output_text": "[\"致命\"]"
+    },
+    {
+        "input_text": "愤怒的小鸟大电影",
+        "output_text": "[\"愤怒\"]"
+    },
+    {
+        "input_text": "惊天魔盗团2",
+        "output_text": "[\"惊天\"]"
+    },
+    {
+        "input_text": "琼斯的自由国度",
+        "output_text": "[\"自由\"]"
+    },
+    {
+        "input_text": "圆梦巨人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "独立日：卷土重来",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "人类清除计划3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "泰山归来：险战丛林",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超能敢死队",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "X战警：天启",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "玩命直播",
+        "output_text": "[\"玩命\"]"
+    },
+    {
+        "input_text": "神奇队长",
+        "output_text": "[\"神奇\"]"
+    },
+    {
+        "input_text": "星际迷航3：超越星辰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "香肠派对",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "谍影重重5",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "机械师2：复活",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "坏妈妈",
+        "output_text": "[\"坏\"]"
+    },
+    {
+        "input_text": "屏住呼吸",
+        "output_text": "[\"屏住呼吸\"]"
+    },
+    {
+        "input_text": "萨利机长",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "会计刺客",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "单身日记：好孕来袭",
+        "output_text": "[\"好孕\"]"
+    },
+    {
+        "input_text": "侠探杰克：永不回头",
+        "output_text": "[\"永不回头\"]"
+    },
+    {
+        "input_text": "血战钢锯岭",
+        "output_text": "[\"血战\"]"
+    },
+    {
+        "input_text": "降临",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "间谍同盟",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神奇动物在哪里",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "办公室圣诞派对",
+        "output_text": "[\"圣诞派对\"]"
+    },
+    {
+        "input_text": "海边的曼彻斯特",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "痛定之美",
+        "output_text": "[\"痛定之美\"]"
+    },
+    {
+        "input_text": "爱乐之城",
+        "output_text": "[\"爱\"]"
+    },
+    {
+        "input_text": "太空旅客",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "藩篱",
+        "output_text": "[\"藩篱\"]"
+    },
+    {
+        "input_text": "为什么是他",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "隐藏人物",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "刺客信条",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "恐袭波士顿",
+        "output_text": "[\"恐袭\"]"
+    },
+    {
+        "input_text": "夜色人生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蓝精灵：寻找神秘村",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "异形：契约",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "一呼一吸",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魅影缝匠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "复仇者联盟3：无限战争",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "未来世界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "升级",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑暗心灵",
+        "output_text": "[\"黑暗\"]"
+    },
+    {
+        "input_text": "瘦长鬼影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "一个明星的诞生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "憨豆特工3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "掠食城市",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "三方国界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑衣人：全球追缉",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "愤怒的小鸟2",
+        "output_text": "[\"愤怒\"]"
+    },
+    {
+        "input_text": "睡梦医生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "终结者：黑暗命运",
+        "output_text": "[\"黑暗命运\"]"
+    },
+    {
+        "input_text": "霹雳娇娃",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "野性的呼唤",
+        "output_text": "[\"野性\"]"
+    },
+    {
+        "input_text": "信条",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "休比的万圣节",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "午夜天空",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "心灵奇旅",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "真人快打：毁灭",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔法满屋",
+        "output_text": "[\"满屋\"]"
+    },
+    {
+        "input_text": "犬之力",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "青春变形记",
+        "output_text": "[\"变形记\"]"
+    },
+    {
+        "input_text": "黑豹2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蜘蛛侠：纵横宇宙",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "芭比",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "末路老奶",
+        "output_text": "[\"末路\"]"
+    },
+    {
+        "input_text": "魔法蓝精灵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "同甘共苦",
+        "output_text": "[\"同甘共苦\"]"
+    },
+    {
+        "input_text": "猎杀游戏",
+        "output_text": "[\"猎杀\"]"
+    },
+    {
+        "input_text": "桂河大桥",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "埃及艳后",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冰血暴",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "赎罪",
+        "output_text": "[\"赎罪\"]"
+    },
+    {
+        "input_text": "伊丽莎白2：黄金时代",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "憨豆的黄金周",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "大侦探福尔摩斯",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "影子写手",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "百夫长",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "皮囊之下",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "洛克",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "金刚狼2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "模仿游戏",
+        "output_text": "[\"模仿\"]"
+    },
+    {
+        "input_text": "王牌特工：特工学院",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "狂怒",
+        "output_text": "[\"狂怒\"]"
+    },
+    {
+        "input_text": "万物理论",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小羊肖恩大电影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "贵族大盗",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "木星上行",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "45周年",
+        "output_text": "[\"怀念\", \"珍惜\", \"感慨\", \"激动\", \"自豪\"]"
+    },
+    {
+        "input_text": "机械姬",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "44号孩子",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "绝命海拔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "秘密特工",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "火星救援",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑色弥撒",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "代号47",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "房间",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "史蒂夫·乔布斯",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雄狮",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "上帝之国",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "猜火车2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "至爱梵高·星空之谜",
+        "output_text": "[\"至爱\"]"
+    },
+    {
+        "input_text": "斯大林之死",
+        "output_text": "[\"死\"]"
+    },
+    {
+        "input_text": "缄默",
+        "output_text": "[\"缄默\"]"
+    },
+    {
+        "input_text": "匿名者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冷战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小羊肖恩2：末日农场",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "悲情三角",
+        "output_text": "[\"悲情\"]"
+    },
+    {
+        "input_text": "如何做爱",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "了不起的盖茨比",
+        "output_text": "[\"了不起\"]"
+    },
+    {
+        "input_text": "前目的地",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "实习医生格蕾",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "少年泰坦出击！",
+        "output_text": "[\"出击\"]"
+    },
+    {
+        "input_text": "虚幻勇士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小羊肖恩",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "咱们裸熊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "宇宙小子",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "奇迹少女",
+        "output_text": "[\"奇迹\"]"
+    },
+    {
+        "input_text": "副本",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "杀死伊芙",
+        "output_text": "[\"杀死\"]"
+    },
+    {
+        "input_text": "恶搞之家",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "辛普森一家",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "外派人员",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "詹姆斯·柯登深夜秀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "托马斯和朋友们",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "嗜血法医",
+        "output_text": "[\"嗜血\"]"
+    },
+    {
+        "input_text": "破产姐妹",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "最长的一码",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑白游龙",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "胖男孩快跑",
+        "output_text": "[\"快跑\"]"
+    },
+    {
+        "input_text": "为我谱上乐章",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "大联盟",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "布鲁斯特的百万横财",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "怪兽训练营",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "爱情达阵",
+        "output_text": "[\"爱情\"]"
+    },
+    {
+        "input_text": "各有少年时",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "早期人类",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "王牌贱谍：格林斯比",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冰刀双人组",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "沙地传奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冲浪企鹅",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "德鲁大叔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "塔拉德加之夜",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "衰脚神父",
+        "output_text": "[\"衰\"]"
+    },
+    {
+        "input_text": "十全大补男",
+        "output_text": "[\"大补\"]"
+    },
+    {
+        "input_text": "安打先生",
+        "output_text": "[\"安打先生\"]"
+    },
+    {
+        "input_text": "飞机总动员：火线救援",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "好景在望",
+        "output_text": "[\"好景在望\"]"
+    },
+    {
+        "input_text": "空中大灌篮2：新传奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "极速蜗牛",
+        "output_text": "[\"极速\"]"
+    },
+    {
+        "input_text": "高尔夫球也疯狂2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "拳坛老千",
+        "output_text": "[\"老千\"]"
+    },
+    {
+        "input_text": "伍德考克先生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "空中大灌篮",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "8英里",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "穿越苍穹",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美女与野兽3：幸福生活",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蛇行太保",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "生命之书",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "防弹",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "仙履奇缘3：魔法时光",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "迪士尼公主奇幻系列故事：跟随你的梦想",
+        "output_text": "[\"奇幻\", \"梦想\"]"
+    },
+    {
+        "input_text": "欢乐合唱团：演唱会3D电影版",
+        "output_text": "[\"欢乐\"]"
+    },
+    {
+        "input_text": "格伦·米勒传",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "1935年淘金女郎",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "钟楼怪人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "爱与慈悲",
+        "output_text": "[\"爱\", \"慈悲\"]"
+    },
+    {
+        "input_text": "旋律时光",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "贾方复仇记",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "舞出我人生2：街舞",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "舞出我人生4",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "舞出我人生5",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "理发师陶德",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "业内前五",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星球大战V：帝国反击战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "爱与黑暗的故事",
+        "output_text": "[\"爱\", \"黑暗\"]"
+    },
+    {
+        "input_text": "温布尔登",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "旗鼓相当",
+        "output_text": "[\"旗鼓相当\"]"
+    },
+    {
+        "input_text": "阿尔·卡彭",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "咖啡公社",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "毕业即失业",
+        "output_text": "[\"失业\"]"
+    },
+    {
+        "input_text": "明日帝国",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "老雷斯的故事",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "碟中谍3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "猫王与尼克松",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "爱很复杂",
+        "output_text": "[\"爱\"]"
+    },
+    {
+        "input_text": "舞出我人生3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "刀锋战士2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "凡夫俗子",
+        "output_text": "[\"凡夫俗子\"]"
+    },
+    {
+        "input_text": "美丽心灵",
+        "output_text": "[\"美丽\"]"
+    },
+    {
+        "input_text": "耐撕侦探",
+        "output_text": "[\"耐撕\"]"
+    },
+    {
+        "input_text": "海底城",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "征服情海",
+        "output_text": "[\"征服\"]"
+    },
+    {
+        "input_text": "斯诺登",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "两杆大烟枪",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "盟军夺宝队",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑鹰坠落",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "保罗",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "后窗惊魂",
+        "output_text": "[\"惊魂\"]"
+    },
+    {
+        "input_text": "28天",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "僵尸之地2",
+        "output_text": "[\"恐怖\"]"
+    },
+    {
+        "input_text": "天空之眼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "变脸",
+        "output_text": "[\"变脸\"]"
+    },
+    {
+        "input_text": "欢乐好声音",
+        "output_text": "[\"欢乐\"]"
+    },
+    {
+        "input_text": "小鬼当家",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "电锯惊魂5",
+        "output_text": "[\"惊魂\"]"
+    },
+    {
+        "input_text": "谍影重重3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "高尔夫球也疯狂",
+        "output_text": "[\"疯狂\"]"
+    },
+    {
+        "input_text": "钢琴课",
+        "output_text": "[\"钢琴课\"]"
+    },
+    {
+        "input_text": "独立日",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "意大利任务",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "单身指南",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "家有儿女之神犬当家",
+        "output_text": "[\"神犬\"]"
+    },
+    {
+        "input_text": "海洋奇缘",
+        "output_text": "[\"奇缘\"]"
+    },
+    {
+        "input_text": "险恶2",
+        "output_text": "[\"险恶\"]"
+    },
+    {
+        "input_text": "惊魂半小时",
+        "output_text": "[\"惊魂\"]"
+    },
+    {
+        "input_text": "哈姆雷特",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑日危机",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "银行家",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蚂蚁尖兵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冷血霹雳火",
+        "output_text": "[\"冷血\", \"霹雳火\"]"
+    },
+    {
+        "input_text": "疯狂躲避球",
+        "output_text": "[\"疯狂\"]"
+    },
+    {
+        "input_text": "木乃伊3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "麻辣娇锋",
+        "output_text": "[\"麻辣娇锋\"]"
+    },
+    {
+        "input_text": "查理和巧克力工厂",
+        "output_text": "[\"巧克力\"]"
+    },
+    {
+        "input_text": "爱在黎明破晓前",
+        "output_text": "[\"爱\"]"
+    },
+    {
+        "input_text": "温暖渐冻心",
+        "output_text": "[\"温暖\"]"
+    },
+    {
+        "input_text": "我与梦露的一周",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "加勒比海盗2：聚魂棺",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "21克",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星际穿越",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "圣堂风云",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "布鲁克林",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "四十七浪人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "点球成金",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "辛普森一家大电影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "床伴逐个数",
+        "output_text": "[\"逐个数\"]"
+    },
+    {
+        "input_text": "救难小英雄澳洲历险记",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "碟中谍4",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "谍影重重2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "百万金臂",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "红龙",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "招魂2",
+        "output_text": "[\"恐怖\", \"惊悚\", \"吓人\", \"可怕\"]"
+    },
+    {
+        "input_text": "霓虹恶魔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超级马力欧兄弟大电影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "不伦之恋",
+        "output_text": "[\"不伦之恋\"]"
+    },
+    {
+        "input_text": "V字仇杀队",
+        "output_text": "[\"仇杀\"]"
+    },
+    {
+        "input_text": "疯狂愚蠢的爱",
+        "output_text": "[\"疯狂\", \"愚蠢\", \"爱\"]"
+    },
+    {
+        "input_text": "我是山姆",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "耶稣受难记",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "无敌破坏王",
+        "output_text": "[\"无敌\"]"
+    },
+    {
+        "input_text": "超自然现象3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "环形使者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "波拉特",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "追星奶奶团",
+        "output_text": "[\"追星\"]"
+    },
+    {
+        "input_text": "我是传奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "情圣囧色夫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神奇动物：邓布利多之谜",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "猎人之夜",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "森林王子2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "极速风流",
+        "output_text": "[\"风流\"]"
+    },
+    {
+        "input_text": "珠光宝气",
+        "output_text": "[\"珠光宝气\"]"
+    },
+    {
+        "input_text": "临终千言",
+        "output_text": "[\"临终\"]"
+    },
+    {
+        "input_text": "蠢蛋搞怪秀4：坏祖父",
+        "output_text": "[\"蠢蛋\", \"坏\"]"
+    },
+    {
+        "input_text": "奇爱博士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "熊的传说",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "龙骑士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "凯恩舰叛变",
+        "output_text": "[\"叛变\"]"
+    },
+    {
+        "input_text": "死亡诗社",
+        "output_text": "[\"死亡\"]"
+    },
+    {
+        "input_text": "飞鹰艾迪",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑客帝国2：重装上阵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "沙丘：预言",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "替身杀手",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "风中奇缘2：伦敦之旅",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "帕特森",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "异形2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "新少棒闯天下",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "至暗时刻",
+        "output_text": "[\"至暗\"]"
+    },
+    {
+        "input_text": "美国心风暴",
+        "output_text": "[\"风暴\"]"
+    },
+    {
+        "input_text": "传染病",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "虎！虎！虎！",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔兽",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "安德的游戏",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "烦人的橙子",
+        "output_text": "[\"烦人\"]"
+    },
+    {
+        "input_text": "足球尤物",
+        "output_text": "[\"尤物\"]"
+    },
+    {
+        "input_text": "赴汤蹈火",
+        "output_text": "[\"赴汤蹈火\"]"
+    },
+    {
+        "input_text": "魔弦传说",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "康斯坦丁",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "军火贩",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "希区柯克",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "楚门的世界",
+        "output_text": "[\"困惑\", \"怀疑\", \"恐惧\", \"不安\", \"震惊\", \"绝望\", \"渴望\", \"愤怒\", \"悲伤\", \"喜悦\", \"希望\", \"爱\", \"背叛\", \"欺骗\", \"孤独\", \"自由\"]"
+    },
+    {
+        "input_text": "泽西女孩",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "巨人捕手杰克",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "怪物史莱克2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神鬼任务",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "捉鬼敢死队2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "少年泰坦出击电影版",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "再见，克里斯托弗·罗宾",
+        "output_text": "[\"再见\"]"
+    },
+    {
+        "input_text": "爱情无线牵",
+        "output_text": "[\"爱情\"]"
+    },
+    {
+        "input_text": "小子难缠",
+        "output_text": "[\"难缠\"]"
+    },
+    {
+        "input_text": "猎艳杀手",
+        "output_text": "[\"猎艳\", \"杀手\"]"
+    },
+    {
+        "input_text": "憨豆先生的大灾难",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "我，机器人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "为子搬迁",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "虫虫危机",
+        "output_text": "[\"危机\"]"
+    },
+    {
+        "input_text": "大力神",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "偷拐抢骗",
+        "output_text": "[\"偷\", \"拐\", \"抢\", \"骗\"]"
+    },
+    {
+        "input_text": "X战警：逆转未来",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "夜行者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冰川时代4",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "居家男人",
+        "output_text": "[\"男人\"]"
+    },
+    {
+        "input_text": "乌龙特工",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "难以忽视的真相",
+        "output_text": "[\"难以忽视\"]"
+    },
+    {
+        "input_text": "狠将奇兵",
+        "output_text": "[\"狠\"]"
+    },
+    {
+        "input_text": "雷霆万钧",
+        "output_text": "[\"雷霆万钧\"]"
+    },
+    {
+        "input_text": "兵临城下",
+        "output_text": "[\"兵临城下\"]"
+    },
+    {
+        "input_text": "速度与激情2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "弗莱迪大战杰森",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神偷奶爸2",
+        "output_text": "[\"神偷\"]"
+    },
+    {
+        "input_text": "欲望城市2",
+        "output_text": "[\"欲望\"]"
+    },
+    {
+        "input_text": "史前一万年",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "环太平洋",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "吵闹鬼",
+        "output_text": "[\"吵闹\"]"
+    },
+    {
+        "input_text": "速度与激情6",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天才眼镜狗",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "X战警：第一战",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "木兰花",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "网聘女伴",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "王牌对王牌",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "寂静岭",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "米泽丽",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超人3",
+        "output_text": "[\"超人\"]"
+    },
+    {
+        "input_text": "庸人哈尔",
+        "output_text": "[\"庸人\"]"
+    },
+    {
+        "input_text": "博物馆奇妙夜",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "将军号",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "八月：奥色治郡",
+        "output_text": "[\"奥色治郡\"]"
+    },
+    {
+        "input_text": "他们最好的",
+        "output_text": "[\"最好\"]"
+    },
+    {
+        "input_text": "移魂女郎",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "热铁皮屋顶上的猫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "下流祖父",
+        "output_text": "[\"下流\"]"
+    },
+    {
+        "input_text": "赛车总动员",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "革命之路",
+        "output_text": "[\"革命\"]"
+    },
+    {
+        "input_text": "另一个地球",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "上海正午",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "公民凯恩",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "致命ID",
+        "output_text": "[\"致命\"]"
+    },
+    {
+        "input_text": "美少女特攻队",
+        "output_text": "[\"特攻队\"]"
+    },
+    {
+        "input_text": "驯龙高手",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "夺宝奇兵4：水晶头骨王国",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "卡罗尔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "歌舞大王齐格飞",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "哈利·波特与死亡圣器（下）",
+        "output_text": "[\"死亡圣器\"]"
+    },
+    {
+        "input_text": "无姓之人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "地狱男爵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "科里奥兰纳斯",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星球大战IV：曙光乍现",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "消失的爱人",
+        "output_text": "[\"消失\"]"
+    },
+    {
+        "input_text": "克莱默夫妇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冰川时代5：星际碰撞",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "宿醉3",
+        "output_text": "[\"宿醉\"]"
+    },
+    {
+        "input_text": "困在时间里的父亲",
+        "output_text": "[\"困\"]"
+    },
+    {
+        "input_text": "爱在日落黄昏时",
+        "output_text": "[\"爱\"]"
+    },
+    {
+        "input_text": "但丁密码",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "不要见怪",
+        "output_text": "[\"见怪\"]"
+    },
+    {
+        "input_text": "达芬奇密码",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "谍影重重",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "弗里达",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天国王朝",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "芳草天空",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "子弹与选票",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "疯狂动物城",
+        "output_text": "[\"疯狂\"]"
+    }
+]

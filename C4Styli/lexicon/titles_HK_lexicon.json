@@ -1,0 +1,6130 @@
+[
+    {
+        "input_text": "死神來了：血脈",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "罪人們",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐵血戰士：終極獵殺者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "暗算2",
+        "output_text": "[\"暗算\"]"
+    },
+    {
+        "input_text": "錢財心愛物",
+        "output_text": "[\"心愛\"]"
+    },
+    {
+        "input_text": "復仇反擊戰",
+        "output_text": "[\"復仇\", \"反擊\"]"
+    },
+    {
+        "input_text": "回音谷",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "功夫夢：傳奇少年",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "腓尼基大作戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "Until Dawn 死亡輪迴",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "戰役",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "重裝制裁",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "米奇17號",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "斷崖谷",
+        "output_text": "[\"斷崖\"]"
+    },
+    {
+        "input_text": "MINECRAFT：我的世界大電影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "奪命狂DATE",
+        "output_text": "[\"奪命\"]"
+    },
+    {
+        "input_text": "無痛俠",
+        "output_text": "[\"無痛\"]"
+    },
+    {
+        "input_text": "猴",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "BJ單身日記 : 我為仔狂",
+        "output_text": "[\"狂\"]"
+    },
+    {
+        "input_text": "300呎窒息倒數",
+        "output_text": "[\"窒息\"]"
+    },
+    {
+        "input_text": "賊鬥2",
+        "output_text": "[\"賊鬥\"]"
+    },
+    {
+        "input_text": "間諜夫妻再出山",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "一屋冤鬼親家",
+        "output_text": "[\"冤鬼\"]"
+    },
+    {
+        "input_text": "皮老闆大電影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "獵魔士：深淵海妖",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "白色官邸殺人事件",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "匹茲堡醫魂",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "富貴鄰住偷",
+        "output_text": "[\"偷\"]"
+    },
+    {
+        "input_text": "墨西哥太平間的九具遺體",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蜘蛛俠：你的友好鄰居",
+        "output_text": "[\"友好\"]"
+    },
+    {
+        "input_text": "深空永航",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "LAZARUS 拉撒路",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "贏定輸",
+        "output_text": "[\"贏\", \"輸\"]"
+    },
+    {
+        "input_text": "全美緝兇：拉登",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "機駭管家",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星動芭蕾",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "真甲告白",
+        "output_text": "[\"告白\"]"
+    },
+    {
+        "input_text": "異靈獵手",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "Tom Segura：曳曳小劇場",
+        "output_text": "[\"曳曳\"]"
+    },
+    {
+        "input_text": "金牌之路：巴黎奧運夢幻隊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "真愛做多咗",
+        "output_text": "[\"真愛\"]"
+    },
+    {
+        "input_text": "質變追擊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "逆轉狂籃",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蠻橫六姐妹",
+        "output_text": "[\"蠻橫\"]"
+    },
+    {
+        "input_text": "瓦干達之眼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑鷹折翼：摩加迪沙之戰全紀錄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "侍女養成記",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "熱線警報",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星球大戰：黑市傳說 Star Wars: Tales of the Underworld",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "全美緝兇：O.J. Simpson",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "行過地獄之路",
+        "output_text": "[\"地獄\"]"
+    },
+    {
+        "input_text": "威斯特夫婦：英倫夢魘",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "驚世轉捩點：越戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "狩獵的妻子們",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "不羈御廚",
+        "output_text": "[\"不羈\"]"
+    },
+    {
+        "input_text": "越戰記憶：美國巨變之役",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "史丹利圖奇的義國美食秘境",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "煙幕瀰漫",
+        "output_text": "[\"瀰漫\"]"
+    },
+    {
+        "input_text": "狩獵派對",
+        "output_text": "```json\n[\"派對\"]\n```"
+    },
+    {
+        "input_text": "無照律師：洛杉磯",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "老友鐵騎遊：兜歐洲再歸家",
+        "output_text": "[\"老友\", \"歸家\"]"
+    },
+    {
+        "input_text": "紐約地產熱",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美洲大地",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "極北故事",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "無序之序",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "阿斯特克斯與奧貝里克斯：首領爭奪戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "電視牢籠",
+        "output_text": "[\"牢籠\"]"
+    },
+    {
+        "input_text": "瀕危守望者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "探險奇兵：新篇章",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔術師大衛：請勿嘗試",
+        "output_text": "[\"請勿嘗試\"]"
+    },
+    {
+        "input_text": "巨鑽奇案大解密",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "輪轉世代",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "與殺人魔對話：山姆之子絕密錄音",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "濃情芝家",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "家事故事",
+        "output_text": "[\"故事\"]"
+    },
+    {
+        "input_text": "中佬好騰雞",
+        "output_text": "[\"騰雞\"]"
+    },
+    {
+        "input_text": "州長小姐",
+        "output_text": "[\"正\", \"勁\", \"過癮\", \"開心\"]"
+    },
+    {
+        "input_text": "攜夢的少年",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "犀牛露露的本色",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "家計",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "過去的未來信件",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "吉妮佛·古德溫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神奇4俠：英雄第一步",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美國隊長4：勇敢新世界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "月光光殺清光",
+        "output_text": "[\"殺清光\"]"
+    },
+    {
+        "input_text": "暗算2",
+        "output_text": "[\"暗算\"]"
+    },
+    {
+        "input_text": "職業特工隊：最終清算",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "殺神John Wick之芭蕾殺姬",
+        "output_text": "[\"殺神\", \"殺姬\"]"
+    },
+    {
+        "input_text": "外星奇遇記",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "28年後",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "人工殺姬2.0",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神探零零甩",
+        "output_text": "[\"神探\", \"零零甩\"]"
+    },
+    {
+        "input_text": "創戰紀：戰神降臨",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "接駁靈聲2",
+        "output_text": "[\"靈聲\"]"
+    },
+    {
+        "input_text": "海綿寶寶：深海尋「寶」",
+        "output_text": "[\"正\", \"勁\", \"過癮\", \"開心\"]"
+    },
+    {
+        "input_text": "美傭誘罪",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "粗獷派建築師",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "無限制軍團",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小丑：雙瘋",
+        "output_text": "[\"瘋\"]"
+    },
+    {
+        "input_text": "隔壁的房間",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "教宗選戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魅笑2",
+        "output_text": "[\"魅笑\"]"
+    },
+    {
+        "input_text": "門逃",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "毒魔：終極一舞",
+        "output_text": "[\"毒魔\", \"終極\"]"
+    },
+    {
+        "input_text": "血腥瑪辛",
+        "output_text": "[\"血腥\"]"
+    },
+    {
+        "input_text": "柏靈頓：秘魯大冒險",
+        "output_text": "[\"冒險\"]"
+    },
+    {
+        "input_text": "卡多湖疑雲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "死侍與狼人",
+        "output_text": "[\"死侍\", \"狼人\"]"
+    },
+    {
+        "input_text": "搖滾詩人：未知的傳奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "Red One 拯救隊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "孤狼同謀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "有詭難言",
+        "output_text": "[\"難言\"]"
+    },
+    {
+        "input_text": "變形金剛初始篇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "異形：羅穆盧斯",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔海奇緣 2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "獅子王：木法沙",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "這裡是吾家",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "以你的酷愛垮掉我",
+        "output_text": "[\"酷愛\", \"垮掉\"]"
+    },
+    {
+        "input_text": "痛愛完成式",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "嘩鬼家族 BEETLEJUICE",
+        "output_text": "[\"嘩鬼\"]"
+    },
+    {
+        "input_text": "魔戒：洛汗人之戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超音鼠大電影 3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "帝國驕雄 II",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "劊樂小丑 3",
+        "output_text": "[\"劊樂\"]"
+    },
+    {
+        "input_text": "龍捲風暴",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "九月五日：人質危機",
+        "output_text": "[\"危機\"]"
+    },
+    {
+        "input_text": "搞事分子",
+        "output_text": "[\"搞事\"]"
+    },
+    {
+        "input_text": "全謊位登月",
+        "output_text": "[\"謊\"]"
+    },
+    {
+        "input_text": "最後的歌舞女郎",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "珊迪大電影：拯救比奇堡",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "狂母夜",
+        "output_text": "[\"狂\"]"
+    },
+    {
+        "input_text": "保衞奇俠 第二章",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "保衞奇俠 第一章",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "頭獎危機！",
+        "output_text": "[\"危機\"]"
+    },
+    {
+        "input_text": "熟女偵探社",
+        "output_text": "[\"熟女\"]"
+    },
+    {
+        "input_text": "冒險奪寶團",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "法網遊龍 - 多倫多：犯罪動機",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "中女的人生之妒",
+        "output_text": "[\"妒\"]"
+    },
+    {
+        "input_text": "玩轉腦朋友2",
+        "output_text": "[\"玩轉\"]"
+    },
+    {
+        "input_text": "壞蛋獎門人4",
+        "output_text": "[\"壞蛋\"]"
+    },
+    {
+        "input_text": "沙丘瀚戰：第二章",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蜂神惡殺",
+        "output_text": "[\"惡殺\"]"
+    },
+    {
+        "input_text": "特工亞皆老",
+        "output_text": "[\"正\", \"勁\", \"過癮\", \"開心\"]"
+    },
+    {
+        "input_text": "魔胎",
+        "output_text": "[\"魔胎\"]"
+    },
+    {
+        "input_text": "美帝崩裂",
+        "output_text": "[\"崩裂\"]"
+    },
+    {
+        "input_text": "隊冧全世界",
+        "output_text": "[\"冧\"]"
+    },
+    {
+        "input_text": "猿人爭霸戰：猩凶帝國",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "重案夢幻重組再重組",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "無聲絕境外傳：首襲日",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "阿媽戀上我波士",
+        "output_text": "[\"戀上\"]"
+    },
+    {
+        "input_text": "圈套",
+        "output_text": "[\"圈套\"]"
+    },
+    {
+        "input_text": "邊緣禁地：沙丘喪戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "人凶智能",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "完美物質",
+        "output_text": "[\"完美\"]"
+    },
+    {
+        "input_text": "Strawberry Shortcake’s Perfect Holiday",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "愛你的凱蒂",
+        "output_text": "[\"愛\"]"
+    },
+    {
+        "input_text": "陰屍路：死亡之城",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "環法單車賽：疾風飛輪",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "臥底神探特倫特",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "四分衛：衝鋒陷陣",
+        "output_text": "[\"衝鋒陷陣\"]"
+    },
+    {
+        "input_text": "柏拉圖男女",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "誘鄰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "銀河守護隊3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蟻俠與黃蜂女：量子狂熱",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "殺神John Wick 4",
+        "output_text": "[\"殺神\"]"
+    },
+    {
+        "input_text": "人工殺姬",
+        "output_text": "[\"殺姬\"]"
+    },
+    {
+        "input_text": "人肉搜尋2",
+        "output_text": "[\"過癮\"]"
+    },
+    {
+        "input_text": "黐GUN婚禮",
+        "output_text": "[\"黐GUN\"]"
+    },
+    {
+        "input_text": "大毒BEAR",
+        "output_text": "[\"大毒\"]"
+    },
+    {
+        "input_text": "譯戰同盟",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "狂野時速10",
+        "output_text": "[\"狂野\"]"
+    },
+    {
+        "input_text": "變形金剛：狂獸崛起",
+        "output_text": "[\"狂獸崛起\"]"
+    },
+    {
+        "input_text": "元素大都會",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "奪寶奇兵：命運輪盤",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "尋根女團",
+        "output_text": "[\"正\", \"勁\", \"過癮\", \"開心\"]"
+    },
+    {
+        "input_text": "職業特工隊：死亡清算",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "復仇戇狗聯盟",
+        "output_text": "[\"戇\"]"
+    },
+    {
+        "input_text": "詭修女II",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "威尼斯謀殺案",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "玩謝華爾街行動",
+        "output_text": "[\"玩謝\"]"
+    },
+    {
+        "input_text": "驅魔人：信仰者",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "魔髮精靈：夾BAND天團",
+        "output_text": "[\"正\", \"勁\", \"過癮\", \"開心\"]"
+    },
+    {
+        "input_text": "星願奇緣",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鴨仔也移民",
+        "output_text": "[\"開心\", \"興奮\", \"期待\"]"
+    },
+    {
+        "input_text": "One Piece Film: Red",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "維京凶狼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "One Piece Film: Red",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "烈探狙擊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "大熊餐廳",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鍍金年代",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "夏日之戀一：說我喜歡你",
+        "output_text": "[\"喜歡\"]"
+    },
+    {
+        "input_text": "新紮律師",
+        "output_text": "[\"新紮\"]"
+    },
+    {
+        "input_text": "寡婦復仇記",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "光譜上發現愛",
+        "output_text": "[\"愛\"]"
+    },
+    {
+        "input_text": "光影與魔法",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "奇異博士2：失控多元宇宙",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "侏羅紀世界：統治霸權",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "迷你兵團2",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "雷神奇俠4：愛與雷霆",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超音鼠大電影2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "無敵貓劍俠：8+1條命",
+        "output_text": "[\"無敵\", \"正\"]"
+    },
+    {
+        "input_text": "奪命狂呼",
+        "output_text": "[\"奪命\", \"狂呼\"]"
+    },
+    {
+        "input_text": "鬼靈精怪大酒店：怪獸變錯身",
+        "output_text": "[\"鬼靈精怪\", \"錯身\"]"
+    },
+    {
+        "input_text": "奇異女俠玩救宇宙",
+        "output_text": "[\"奇異\", \"救\"]"
+    },
+    {
+        "input_text": "魔比煞",
+        "output_text": "[\"魔比煞\"]"
+    },
+    {
+        "input_text": "阿波羅10號半：男兒當升空",
+        "output_text": "[\"升空\"]"
+    },
+    {
+        "input_text": "接駁靈聲",
+        "output_text": "[\"靈聲\"]"
+    },
+    {
+        "input_text": "殺手列車",
+        "output_text": "[\"殺手\"]"
+    },
+    {
+        "input_text": "了結月光光",
+        "output_text": "[\"了結\"]"
+    },
+    {
+        "input_text": "隱閉中年",
+        "output_text": "[\"隱閉\"]"
+    },
+    {
+        "input_text": "白蓮會",
+        "output_text": "[\"白蓮會\"]"
+    },
+    {
+        "input_text": "克拉克森農場趣",
+        "output_text": "[\"趣\"]"
+    },
+    {
+        "input_text": "職業槍手",
+        "output_text": "[\"槍手\"]"
+    },
+    {
+        "input_text": "母女姐妹花",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蜘蛛俠：不戰無歸",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "尚氣與十環幫傳奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "毒魔：血戰大屠殺",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星夢動物園2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "007：生死有時",
+        "output_text": "[\"生死有時\"]"
+    },
+    {
+        "input_text": "無聲絕境II",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蛛屍馬跡",
+        "output_text": "[\"馬跡\"]"
+    },
+    {
+        "input_text": "浪跡天地",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "Tom & Jerry大電影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "海綿寶寶：急急腳走佬",
+        "output_text": "[\"急急腳\"]"
+    },
+    {
+        "input_text": "魔龍王國",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "讀心叛變",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "殺神NOBODY",
+        "output_text": "[\"殺神\"]"
+    },
+    {
+        "input_text": "一家人大戰機械人",
+        "output_text": "[\"大戰\"]"
+    },
+    {
+        "input_text": "不死喪軍",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑白魔后",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "詭屋驚凶實錄3：魔旨",
+        "output_text": "[\"驚凶\"]"
+    },
+    {
+        "input_text": "保鑣救殺手2",
+        "output_text": "[\"救\"]"
+    },
+    {
+        "input_text": "盛夏友晴天",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "波士BB 2細祖",
+        "output_text": "[\"細祖\"]"
+    },
+    {
+        "input_text": "太空也入樽：改朝換代",
+        "output_text": "[\"正\", \"勁\", \"過癮\"]"
+    },
+    {
+        "input_text": "《密室逃殺：倖存者遊戲》",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "幻險森林奇航",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "自殺特攻",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "爆機自由仁",
+        "output_text": "[\"爆機\", \"自由\"]"
+    },
+    {
+        "input_text": "心之旋律",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "糖魔怪客",
+        "output_text": "[\"魔怪\"]"
+    },
+    {
+        "input_text": "My Little Pony：新世代",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "紐瓦克聖人黑幫聖徒",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "月光光殺清光",
+        "output_text": "[\"殺清光\"]"
+    },
+    {
+        "input_text": "沙丘瀚戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "失靈腦朋友",
+        "output_text": "[\"失靈\"]"
+    },
+    {
+        "input_text": "毒心術",
+        "output_text": "[\"毒心術\"]"
+    },
+    {
+        "input_text": "22世紀殺人網絡 復活次元",
+        "output_text": "[\"正\", \"勁\", \"過癮\"]"
+    },
+    {
+        "input_text": "皇家特工：第一任務",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "火星上的一天",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "陌路雙逢",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "盲婚試愛",
+        "output_text": "[\"盲婚\", \"試愛\"]"
+    },
+    {
+        "input_text": "轉生成女性向遊戲只有毀滅END的壞人大小姐",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "重案夢幻再重組",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超音鼠大電影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "猛禽暴隊：解瘋小丑女",
+        "output_text": "[\"解瘋\", \"小丑\"]"
+    },
+    {
+        "input_text": "怪醫D老篤",
+        "output_text": "[\"怪\"]"
+    },
+    {
+        "input_text": "隱形客",
+        "output_text": "[\"隱形客\"]"
+    },
+    {
+        "input_text": "古魯家族2：霸器新時代",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "瘋狂紳士幫",
+        "output_text": "[\"瘋狂\"]"
+    },
+    {
+        "input_text": "謎·離島",
+        "output_text": "[\"離島\"]"
+    },
+    {
+        "input_text": "EMMA：上流貴族",
+        "output_text": "[\"上流\", \"貴族\"]"
+    },
+    {
+        "input_text": "隱俠：地下正義",
+        "output_text": "[\"正義\"]"
+    },
+    {
+        "input_text": "獵逃生死戰",
+        "output_text": "[\"生死戰\"]"
+    },
+    {
+        "input_text": "魔髮精靈：唱遊大世界",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "美國最後一宗罪案",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "大大大細路",
+        "output_text": "[\"細路\"]"
+    },
+    {
+        "input_text": "熊熊遇見你大電影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "Palm Springs：戀愛假期無限LOOP",
+        "output_text": "[\"戀愛假期\"]"
+    },
+    {
+        "input_text": "新異變人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "決戰非常外公",
+        "output_text": "[\"決戰\"]"
+    },
+    {
+        "input_text": "末路狂盜",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "怪誕黑巫后",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "血·緣",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "絕望者之歌",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "屠·姐上錯身",
+        "output_text": "[\"上錯身\"]"
+    },
+    {
+        "input_text": "末世綠洲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "結叛同行",
+        "output_text": "[\"叛\"]"
+    },
+    {
+        "input_text": "超犀女王",
+        "output_text": "[\"犀\"]"
+    },
+    {
+        "input_text": "心靈判官 SS2 First Guardian",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "心靈判官 SS1 罪與罰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "心靈判官 SS3 恩仇的彼方",
+        "output_text": "[\"恩仇\"]"
+    },
+    {
+        "input_text": "天外來敵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "倒數五分鐘",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "Formula 1：極速求生",
+        "output_text": "[\"極速求生\"]"
+    },
+    {
+        "input_text": "新世代線上販毒",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑道教父",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神選之人",
+        "output_text": "[\"神選之人\"]"
+    },
+    {
+        "input_text": "魔雪奇緣2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "反斗奇兵4",
+        "output_text": "[\"反斗\"]"
+    },
+    {
+        "input_text": "Marvel隊長",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蜘蛛俠：決戰千里",
+        "output_text": "[\"決戰千里\"]"
+    },
+    {
+        "input_text": "JOKER小丑",
+        "output_text": "[\"小丑\"]"
+    },
+    {
+        "input_text": "逃出魔幻紀：霸氣升呢",
+        "output_text": "[\"霸氣\"]"
+    },
+    {
+        "input_text": "《密室逃殺》",
+        "output_text": "[\"逃殺\"]"
+    },
+    {
+        "input_text": "閃亮人生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "異能仨",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "權力劍神",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "LEGO英雄傳2",
+        "output_text": "[\"英雄\"]"
+    },
+    {
+        "input_text": "冰天動地",
+        "output_text": "[\"冰天動地\"]"
+    },
+    {
+        "input_text": "死亡無限2次LOOP",
+        "output_text": "[\"LOOP\"]"
+    },
+    {
+        "input_text": "銃夢：戰鬥天使",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "馴龍記3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "沙贊！神力集結",
+        "output_text": "[\"神力集結\"]"
+    },
+    {
+        "input_text": "詭墓",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "索爆高低戀",
+        "output_text": "[\"索爆\"]"
+    },
+    {
+        "input_text": "樣衰衰奇兵",
+        "output_text": "[\"樣衰衰\"]"
+    },
+    {
+        "input_text": "極度邪惡 超級變態：我的迷人男友",
+        "output_text": "[\"邪惡\", \"變態\", \"迷人\"]"
+    },
+    {
+        "input_text": "POKÉMON 神探Pikachu",
+        "output_text": "[\"神探\"]"
+    },
+    {
+        "input_text": "殺神John Wick 3",
+        "output_text": "[\"殺神\"]"
+    },
+    {
+        "input_text": "哥斯拉II：王者巨獸",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "變種特攻：黑鳳凰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "Pet Pet當家2",
+        "output_text": "[\"正\", \"得意\", \"好笑\", \"正\", \"得意\", \"好笑\"]"
+    },
+    {
+        "input_text": "猜猜猜誰是兇手",
+        "output_text": "[\"兇手\"]"
+    },
+    {
+        "input_text": "緣來自昨天",
+        "output_text": "[\"開心\", \"得意\"]"
+    },
+    {
+        "input_text": "從前，有個荷里活",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "狂野時速：雙雄聯盟",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "曳曳同學會",
+        "output_text": "[\"曳曳\"]"
+    },
+    {
+        "input_text": "走佬阿媽",
+        "output_text": "[\"走佬\"]"
+    },
+    {
+        "input_text": "白宮淪陷3：天使淪陷",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星際任務",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "第一滴血：終極血戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "長毛雪寶",
+        "output_text": "[\"長毛\", \"雪寶\"]"
+    },
+    {
+        "input_text": "老師·喪屍·小BB",
+        "output_text": "[\"喪屍\"]"
+    },
+    {
+        "input_text": "雙子任務：疊影危機",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑魔后2",
+        "output_text": "[\"黑魔后\"]"
+    },
+    {
+        "input_text": "陽光兔仔兵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "電流戰爭",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "無母之城",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "舊年聖誕好戀嚟",
+        "output_text": "[\"戀嚟\"]"
+    },
+    {
+        "input_text": "烈火湊仔公",
+        "output_text": "[\"湊仔公\"]"
+    },
+    {
+        "input_text": "極速傳奇：福特決戰法拉利",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "在晴朗的一天出發",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "追擊黑水真相",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神探白朗：福比利大宅謀殺案",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "教廷白煙",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "李察朱維爾：驚世疑案",
+        "output_text": "[\"驚世\"]"
+    },
+    {
+        "input_text": "未成大器",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "變雀特工",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "1917：逆戰救兵",
+        "output_text": "[\"逆戰\", \"救兵\"]"
+    },
+    {
+        "input_text": "賊鬥",
+        "output_text": "[\"賊鬥\"]"
+    },
+    {
+        "input_text": "新紮師兄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "環球饗宴：菲爾食好嘢",
+        "output_text": "[\"好嘢\"]"
+    },
+    {
+        "input_text": "超人特工隊2",
+        "output_text": "[\"正\", \"勁\", \"過癮\", \"開心\"]"
+    },
+    {
+        "input_text": "侏羅紀世界：迷失國度",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "水行俠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "聖誕怪怪傑",
+        "output_text": "[\"怪怪\"]"
+    },
+    {
+        "input_text": "職業特工隊：叛逆之謎",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蟻俠2：黃蜂女現身",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "波希米亞狂想曲：搖滾傳說",
+        "output_text": "[\"狂想曲\", \"搖滾傳說\"]"
+    },
+    {
+        "input_text": "兒凶4：鎖命怨靈",
+        "output_text": "[\"凶\", \"怨靈\"]"
+    },
+    {
+        "input_text": "12壯士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "15:17 巴黎列車槍擊案",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "今晚玩救你",
+        "output_text": "[\"玩救你\"]"
+    },
+    {
+        "input_text": "滅境",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "紅雀特工",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "邊個出差咁黑仔？",
+        "output_text": "[\"黑仔\"]"
+    },
+    {
+        "input_text": "十級風劫",
+        "output_text": "[\"劫\"]"
+    },
+    {
+        "input_text": "盜墓者羅拉",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "抱抱我的初戀",
+        "output_text": "[\"抱抱\"]"
+    },
+    {
+        "input_text": "悍戰太平洋2：起義時空",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神探福爾摩侏",
+        "output_text": "[\"神探\"]"
+    },
+    {
+        "input_text": "挑戰者1號",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "無聲絕境",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "反啪啪同盟",
+        "output_text": "[\"反啪啪\"]"
+    },
+    {
+        "input_text": "獨行煞星",
+        "output_text": "[\"煞星\"]"
+    },
+    {
+        "input_text": "末日困獸戰",
+        "output_text": "[\"困獸戰\"]"
+    },
+    {
+        "input_text": "論盡爆煲媽咪",
+        "output_text": "[\"論盡\", \"爆煲\"]"
+    },
+    {
+        "input_text": "喋血雙紅",
+        "output_text": "[\"喋血\"]"
+    },
+    {
+        "input_text": "韓索羅：星球大戰外傳",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美式禽獸",
+        "output_text": "[\"禽獸\"]"
+    },
+    {
+        "input_text": "盜海豪情：8美千嬌",
+        "output_text": "[\"豪情\", \"千嬌\"]"
+    },
+    {
+        "input_text": "絕命酒店",
+        "output_text": "[\"絕命\"]"
+    },
+    {
+        "input_text": "毒裁者2：無法無天",
+        "output_text": "[\"無法無天\"]"
+    },
+    {
+        "input_text": "國定殺戮日：屠亡前傳",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鬼靈精怪大酒店3：怪獸旅行團",
+        "output_text": "[\"鬼靈精怪\"]"
+    },
+    {
+        "input_text": "高凶浩劫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "酒過漫畫人生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "叛諜裁判2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "少年悍將GO！大電影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "維尼與我",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "極悍巨鯊",
+        "output_text": "[\"極悍\"]"
+    },
+    {
+        "input_text": "馴狼紀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "人肉搜尋",
+        "output_text": "[\"人肉搜尋\"]"
+    },
+    {
+        "input_text": "婚禮進行識",
+        "output_text": "[\"正\", \"勁\", \"過癮\", \"開心\"]"
+    },
+    {
+        "input_text": "詭修女",
+        "output_text": "[\"詭\"]"
+    },
+    {
+        "input_text": "薄荷殺姬",
+        "output_text": "[\"殺姬\"]"
+    },
+    {
+        "input_text": "鐵血戰士：血獸進化",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔鐘奇幻屋",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "毒魔",
+        "output_text": "[\"毒魔\"]"
+    },
+    {
+        "input_text": "登月第一人‬",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "賊眉賊眼大酒店",
+        "output_text": "[\"賊眉賊眼\"]"
+    },
+    {
+        "input_text": "書中自有魔怪谷2：翻生萬聖節",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "大老作家",
+        "output_text": "[\"大老\"]"
+    },
+    {
+        "input_text": "潛艦滅殺令",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "胡桃夾子",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "選戰謊情色",
+        "output_text": "[\"謊\"]"
+    },
+    {
+        "input_text": "大君主之役",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "怪獸與葛林戴華德之罪",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "剋·寡婦",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "綠簿旅友",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "失驚無神一家人",
+        "output_text": "[\"失驚無神\"]"
+    },
+    {
+        "input_text": "無敵破壞王2：打爆互聯網",
+        "output_text": "[\"無敵\", \"打爆\"]"
+    },
+    {
+        "input_text": "王者之後：重拳復仇",
+        "output_text": "[\"重拳復仇\"]"
+    },
+    {
+        "input_text": "箭神·第一戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "爭寵",
+        "output_text": "[\"爭寵\"]"
+    },
+    {
+        "input_text": "蜘蛛俠：跳入蜘蛛宇宙",
+        "output_text": "[\n    \"正\",\n    \"勁\",\n    \"過癮\",\n    \"開心\"\n]"
+    },
+    {
+        "input_text": "毒行俠",
+        "output_text": "[\"毒\"]"
+    },
+    {
+        "input_text": "魔法保姆",
+        "output_text": "[\"正\", \"勁\", \"過癮\", \"開心\"]"
+    },
+    {
+        "input_text": "司法女王",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星球大戰：最後絕地武士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "逃出魔幻紀：叢林挑機",
+        "output_text": "[\"挑機\"]"
+    },
+    {
+        "input_text": "蜘蛛俠：強勢回歸",
+        "output_text": "[\"強勢回歸\"]"
+    },
+    {
+        "input_text": "雷神奇俠3：諸神黃昏",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "壞蛋獎門人3",
+        "output_text": "[\"壞蛋\"]"
+    },
+    {
+        "input_text": "思·裂",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "3X反恐暴族：重火力回歸",
+        "output_text": "[\"反恐暴族\"]"
+    },
+    {
+        "input_text": "生化危機：終極屍殺",
+        "output_text": "[\"屍殺\"]"
+    },
+    {
+        "input_text": "LEGO蝙蝠俠英雄傳",
+        "output_text": "[\"英雄\"]"
+    },
+    {
+        "input_text": "殺神John Wick 2",
+        "output_text": "[\"殺神\"]"
+    },
+    {
+        "input_text": "格雷的五十道色戒2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "藥到命除",
+        "output_text": "[\"命除\"]"
+    },
+    {
+        "input_text": "訪·嚇",
+        "output_text": "[\"嚇\"]"
+    },
+    {
+        "input_text": "盧根",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "外星生命",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "波士BB",
+        "output_text": "[\"BB\"]"
+    },
+    {
+        "input_text": "搶錢耆兵",
+        "output_text": "[\"搶錢\"]"
+    },
+    {
+        "input_text": "狂野時速8",
+        "output_text": "[\"狂野\"]"
+    },
+    {
+        "input_text": "圓美圈套",
+        "output_text": "[\"圓美\"]"
+    },
+    {
+        "input_text": "神劍亞瑟王",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "沙灘拯救隊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "加勒比海盜：惡靈啟航",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "底底超人大電影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "盜墓迷城",
+        "output_text": "[\"迷城\"]"
+    },
+    {
+        "input_text": "反斗車王3",
+        "output_text": "[\"反斗\"]"
+    },
+    {
+        "input_text": "變形金剛：終極戰士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美麗有毒",
+        "output_text": "[\"有毒\"]"
+    },
+    {
+        "input_text": "食人愛情",
+        "output_text": "[\"食人\"]"
+    },
+    {
+        "input_text": "猿人爭霸戰：猩凶巨戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "死神凶盒",
+        "output_text": "[\"凶\"]"
+    },
+    {
+        "input_text": "鄧寇克大行動",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "Emoji大冒險",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑魔塔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "詭娃安娜貝爾：造孽",
+        "output_text": "[\"造孽\"]"
+    },
+    {
+        "input_text": "命中有罪",
+        "output_text": "[\"罪\"]"
+    },
+    {
+        "input_text": "保鑣救殺手",
+        "output_text": "[\"殺手\"]"
+    },
+    {
+        "input_text": "美國特工",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "皇家特工：金圈子",
+        "output_text": "[\"正\", \"勁\", \"過癮\"]"
+    },
+    {
+        "input_text": "LEGO旋風忍者大電影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "男女單打戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "死亡無限LOOP",
+        "output_text": "[\"LOOP\"]"
+    },
+    {
+        "input_text": "佔‧誘神奇女俠",
+        "output_text": "[\"神奇\"]"
+    },
+    {
+        "input_text": "人造天劫",
+        "output_text": "[\"天劫\"]"
+    },
+    {
+        "input_text": "雪中罪",
+        "output_text": "[\"罪\"]"
+    },
+    {
+        "input_text": "3個小生去送殯",
+        "output_text": "[\"送殯\"]"
+    },
+    {
+        "input_text": "不得鳥小姐",
+        "output_text": "[\"不得鳥\"]"
+    },
+    {
+        "input_text": "廣告牌殺人事件",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "玩轉極樂園",
+        "output_text": "[\"玩轉\"]"
+    },
+    {
+        "input_text": "以你的名字呼喚我",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "荷里活爛片王",
+        "output_text": "[\"爛片王\"]"
+    },
+    {
+        "input_text": "忘形水",
+        "output_text": "[\"忘形\"]"
+    },
+    {
+        "input_text": "奇幻摩天輪",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冰之驕女",
+        "output_text": "[\"驕女\"]"
+    },
+    {
+        "input_text": "快D啦牛牛",
+        "output_text": "[\"快D啦\"]"
+    },
+    {
+        "input_text": "天凶之城2：末日救贖",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "縮水人間",
+        "output_text": "[\"縮水\"]"
+    },
+    {
+        "input_text": "戰雲密報",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "萬惡金錢",
+        "output_text": "[\"萬惡\"]"
+    },
+    {
+        "input_text": "機動戰士高達 雷霆宙域戰線 DECEMBER SKY",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "ONE PIECE FILM GOLD",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "月亮喜歡藍",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "焦點追擊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "零點殺機",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "瓢蟲少女",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "牧師與神探",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "被奪走的12年",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "ARGO–救參任務",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "RuPaul 變裝皇后群星齊風騷",
+        "output_text": "[\"風騷\"]"
+    },
+    {
+        "input_text": "星光夢裏人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "皇上無話兒",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "拆彈雄心",
+        "output_text": "[\"雄心\"]"
+    },
+    {
+        "input_text": "一百萬零一夜",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "3D 月球探險記",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "二百萬奪命奇案",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "哈利波特：鳳凰會的密令",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "飛哥與發仔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "無間道風雲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "撞車",
+        "output_text": "[\"撞車\"]"
+    },
+    {
+        "input_text": "擊情",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "忘了·忘不了",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔戒三部曲：王者再臨",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔戒三部曲：王者再臨",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "有你終生美麗",
+        "output_text": "[\"美麗\"]"
+    },
+    {
+        "input_text": "帝國驕雄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美麗有罪",
+        "output_text": "[\"有罪\"]"
+    },
+    {
+        "input_text": "蓋酷家庭",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "寫我深情",
+        "output_text": "[\"深情\"]"
+    },
+    {
+        "input_text": "親親兩顆心",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "沉默的證人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "驚世未了緣",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "舒特拉的名單",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "豪情蓋天",
+        "output_text": "[\"豪情\", \"蓋天\"]"
+    },
+    {
+        "input_text": "山水喜相逢",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "手足情未了",
+        "output_text": "[\"手足情\"]"
+    },
+    {
+        "input_text": "殺戮戰場",
+        "output_text": "[\"殺戮\"]"
+    },
+    {
+        "input_text": "芝加哥打鬼",
+        "output_text": "[\"打鬼\"]"
+    },
+    {
+        "input_text": "非洲之旅",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "常在我心間",
+        "output_text": "[\"常在我心間\"]"
+    },
+    {
+        "input_text": "甘地",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "克蓝玛对克蓝玛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "獵鹿者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "安妮荷爾",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "老千計狀元才",
+        "output_text": "[\"老千\"]"
+    },
+    {
+        "input_text": "密探霹靂火",
+        "output_text": "[\"霹靂火\"]"
+    },
+    {
+        "input_text": "鐵血將軍巴頓",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "新苦海孤雛",
+        "output_text": "[\"苦海孤雛\"]"
+    },
+    {
+        "input_text": "月黑風高殺人夜",
+        "output_text": "[\"殺人\"]"
+    },
+    {
+        "input_text": "仙樂飄飄處處聞",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "夢斷城西",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "桃色公寓",
+        "output_text": "[\"桃色\"]"
+    },
+    {
+        "input_text": "八十日環遊世界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "戲王之王",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "花都艷舞",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "父慈子孝",
+        "output_text": "[\"慈\", \"孝\"]"
+    },
+    {
+        "input_text": "百戰忠魂",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "逆旅奇觀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "百老滙之歌",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "情海波瀾日出",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "飛機大戰／飛機大戰「翼」",
+        "output_text": "[\"正\", \"勁\", \"過癮\"]"
+    },
+    {
+        "input_text": "殖邊壯史",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小霸王",
+        "output_text": "[\"小霸王\"]"
+    },
+    {
+        "input_text": "人民公敵",
+        "output_text": "[\"公敵\"]"
+    },
+    {
+        "input_text": "傷面人",
+        "output_text": "[\"傷面\"]"
+    },
+    {
+        "input_text": "俠友",
+        "output_text": "[\"俠友\"]"
+    },
+    {
+        "input_text": "左拉光榮傳",
+        "output_text": "[\"光榮\"]"
+    },
+    {
+        "input_text": "雪姑七友傳",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "罪惡鎖鍊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "怒吼時代",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "烽火鴛鴦",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "戰雲鵑血",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "恨鎖瓊樓",
+        "output_text": "[\"恨\"]"
+    },
+    {
+        "input_text": "幻遊南海",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蕩婦姬黛蕩女姬黛黑幫艷婦",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "莫負少年頭",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蓬萊仙境",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "警匪喋血戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑獄亡魂",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "龍城殲霸戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "萬花嬉春雨中樂飛揚",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "紅粉忠魂未了情",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "金枝玉葉",
+        "output_text": "[\"金枝玉葉\"]"
+    },
+    {
+        "input_text": "小姐與流氓",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "君子好逑",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "八十日環遊世界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "瑪麗·科斯塔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "七俠蕩寇誌",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "風雲羣英會",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "珠光寶氣",
+        "output_text": "[\"珠光寶氣\"]"
+    },
+    {
+        "input_text": "寶貝歷險記",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "碧血長天",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "沙漠梟雄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "一樹梨花壓海棠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐵金剛勇破神秘島",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐵金剛勇破間諜網",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "石中神劍",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐵金剛大戰金手指",
+        "output_text": "[\"大戰\"]"
+    },
+    {
+        "input_text": "日月精忠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "獨行俠決鬥地獄門",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小泰山森林奇遇記",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐵金剛勇破火箭嶺",
+        "output_text": "[\"勇破\"]"
+    },
+    {
+        "input_text": "黑霸王大決鬥",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "萬里狂沙萬里仇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神鎗手與智多星",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "攞命舞",
+        "output_text": "[\"攞命\"]"
+    },
+    {
+        "input_text": "鐵金剛勇破雪山堡",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "富貴貓",
+        "output_text": "[\"富貴\"]"
+    },
+    {
+        "input_text": "鐵金剛勇破鑽石黨",
+        "output_text": "[\"勇破\"]"
+    },
+    {
+        "input_text": "密探霹靂火",
+        "output_text": "[\"霹靂火\"]"
+    },
+    {
+        "input_text": "俏郎君",
+        "output_text": "[\"俏\"]"
+    },
+    {
+        "input_text": "鐵金剛勇破黑魔黨",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐵金剛大戰金槍客",
+        "output_text": "[\"大戰\"]"
+    },
+    {
+        "input_text": "密探霹靂火續集",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "的士司機",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "紐約紐約",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神勇小英雄",
+        "output_text": "[\"神勇\"]"
+    },
+    {
+        "input_text": "鐵金剛勇破太空城",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐵金剛勇破海龍幫",
+        "output_text": "[\"勇破\"]"
+    },
+    {
+        "input_text": "烈火戰車／火之戰車",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超人續集",
+        "output_text": "[\"正\", \"勁\", \"過癮\"]"
+    },
+    {
+        "input_text": "狂牛",
+        "output_text": "[\"狂牛\"]"
+    },
+    {
+        "input_text": "小狐與獵犬",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "2020",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星球大戰：武士復仇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐵金剛勇破爆炸黨",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魅力姬絲汀",
+        "output_text": "[\"魅力\"]"
+    },
+    {
+        "input_text": "妙探出差",
+        "output_text": "[\"妙探\"]"
+    },
+    {
+        "input_text": "奪寶奇兵之魔域奇兵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "義薄雲天",
+        "output_text": "[\"義薄雲天\"]"
+    },
+    {
+        "input_text": "殺出火地獄",
+        "output_text": "[\"殺出\", \"火地獄\"]"
+    },
+    {
+        "input_text": "未來戰士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "非洲之旅",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐵金剛勇戰大狂魔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑神魔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "三更半夜",
+        "output_text": "[\"三更半夜\"]"
+    },
+    {
+        "input_text": "儍老鼠與大笨狗",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "伴我同行常在我左右",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔宮傳奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "戰火浮生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "義膽雄心",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "烈血焚城",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐵金剛大戰特務飛龍",
+        "output_text": "[\"大戰\"]"
+    },
+    {
+        "input_text": "超人第四集—決戰核能人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐵甲威龍",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "掟阿媽出火車",
+        "output_text": "[\"掟\"]"
+    },
+    {
+        "input_text": "手足情未了",
+        "output_text": "[\"情未了\"]"
+    },
+    {
+        "input_text": "嘩鬼家族",
+        "output_text": "[\"嘩鬼\"]"
+    },
+    {
+        "input_text": "夢城兔福星",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "老友記闖天涯",
+        "output_text": "[\"老友記\"]"
+    },
+    {
+        "input_text": "奪寶奇兵之聖戰奇兵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐵金剛勇戰殺人狂魔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "90男歡女愛",
+        "output_text": "[\"歡\", \"愛\"]"
+    },
+    {
+        "input_text": "風月俏佳人",
+        "output_text": "[\"俏\"]"
+    },
+    {
+        "input_text": "小魚仙",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "宇宙威龍",
+        "output_text": "[\"威龍\"]"
+    },
+    {
+        "input_text": "星光伴我心",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "盜亦有道",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐵血戰士續集",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "風雲再起時",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "幻海奇緣",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "未來戰士續集未來戰士II：世界末日",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "才子夢驚魂",
+        "output_text": "[\"驚魂\"]"
+    },
+    {
+        "input_text": "疊影威龍",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "不羈的天空",
+        "output_text": "[\"不羈\"]"
+    },
+    {
+        "input_text": "異形三集",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "天網追擊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "女人香",
+        "output_text": "[\"香\"]"
+    },
+    {
+        "input_text": "緣份的天空",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "偷天情緣",
+        "output_text": "[\"偷天情緣\"]"
+    },
+    {
+        "input_text": "不一樣的童年",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "越空狂龍",
+        "output_text": "[\"狂龍\"]"
+    },
+    {
+        "input_text": "超能塞豆隆",
+        "output_text": "[\"塞豆隆\"]"
+    },
+    {
+        "input_text": "月黑高飛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "艾活傳",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "新鐵金剛之金眼睛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "反斗奇兵",
+        "output_text": "[\"反斗\"]"
+    },
+    {
+        "input_text": "太陽神13號",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "非常任務",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "非常嫌疑犯",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "關人矮事",
+        "output_text": "[\"矮事\"]"
+    },
+    {
+        "input_text": "石破天驚",
+        "output_text": "[\"石破天驚\"]"
+    },
+    {
+        "input_text": "職業特工隊",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "衰鬼線人",
+        "output_text": "[\"衰鬼\"]"
+    },
+    {
+        "input_text": "不敗梟雄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "硬闖100%危險",
+        "output_text": "[\"硬闖\", \"危險\"]"
+    },
+    {
+        "input_text": "別問我是誰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "驕陽似我",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "太空也入樽",
+        "output_text": "[\"入樽\"]"
+    },
+    {
+        "input_text": "侏羅紀公園：迷失世界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "反擊王",
+        "output_text": "[\"反擊王\"]"
+    },
+    {
+        "input_text": "至Out特務In嬌娃",
+        "output_text": "[\"Out\", \"In\"]"
+    },
+    {
+        "input_text": "驚天動地",
+        "output_text": "[\"驚天動地\"]"
+    },
+    {
+        "input_text": "異煞",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "幕後嫌疑犯",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "變種異煞",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "舊年暑假搞乜鬼",
+        "output_text": "[\"乜鬼\"]"
+    },
+    {
+        "input_text": "追魂交易",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "絕世天劫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "火拼時速",
+        "output_text": "[\"火拼\"]"
+    },
+    {
+        "input_text": "活佛傳",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雷霆救兵",
+        "output_text": "[\"救兵\"]"
+    },
+    {
+        "input_text": "愛情嚟料",
+        "output_text": "[\"愛情\"]"
+    },
+    {
+        "input_text": "這個總統真太濫",
+        "output_text": "[\"濫\"]"
+    },
+    {
+        "input_text": "大保齡離奇綁架",
+        "output_text": "[\"離奇\"]"
+    },
+    {
+        "input_text": "情深說話未曾講",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "心慌方",
+        "output_text": "[\"心慌\"]"
+    },
+    {
+        "input_text": "幽靈刺客",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "野獸良民",
+        "output_text": "[\"良民\"]"
+    },
+    {
+        "input_text": "獅子王Ⅱ辛巴王國",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "情約今生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "一個快樂的傳說",
+        "output_text": "[\"快樂\"]"
+    },
+    {
+        "input_text": "星空第一戰士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "寫我深情",
+        "output_text": "[\"深情\"]"
+    },
+    {
+        "input_text": "舊年暑假仲有鬼",
+        "output_text": "[\"有鬼\"]"
+    },
+    {
+        "input_text": "凸務之王",
+        "output_text": "[\"凸務\"]"
+    },
+    {
+        "input_text": "反斗奇兵續集",
+        "output_text": "[\"反斗\"]"
+    },
+    {
+        "input_text": "星球大戰前傳：魅影危機",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "22世紀殺人網絡",
+        "output_text": "[\"殺人\"]"
+    },
+    {
+        "input_text": "鬼眼",
+        "output_text": "[\"鬼眼\"]"
+    },
+    {
+        "input_text": "從未咀過",
+        "output_text": "[\"咀過\"]"
+    },
+    {
+        "input_text": "摘星奇緣",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "十三度凶間",
+        "output_text": "[\"凶間\"]"
+    },
+    {
+        "input_text": "疾走羅拉",
+        "output_text": "[\"疾走\"]"
+    },
+    {
+        "input_text": "搏擊會",
+        "output_text": "[\"搏擊\"]"
+    },
+    {
+        "input_text": "玩謝麥高維治",
+        "output_text": "[\"玩謝\"]"
+    },
+    {
+        "input_text": "午夜速遞",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "無頭谷",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "心計",
+        "output_text": "[\"心計\"]"
+    },
+    {
+        "input_text": "劫後重生",
+        "output_text": "[\"重生\"]"
+    },
+    {
+        "input_text": "搞乜鬼奪命雜作",
+        "output_text": "[\"奪命\"]"
+    },
+    {
+        "input_text": "非常外父揀女婿",
+        "output_text": "[\"外父\", \"揀\"]"
+    },
+    {
+        "input_text": "驚濤駭浪",
+        "output_text": "[\"驚濤駭浪\"]"
+    },
+    {
+        "input_text": "職業特工隊2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "變種特攻",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "致命圈套",
+        "output_text": "[\"致命\"]"
+    },
+    {
+        "input_text": "隔世救未來",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "末日反擊戰",
+        "output_text": "[\"反擊戰\"]"
+    },
+    {
+        "input_text": "咪走雞",
+        "output_text": "[\"走雞\"]"
+    },
+    {
+        "input_text": "宇宙奇艦泰坦號",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "恐龍世紀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "不日成名",
+        "output_text": "[\"成名\"]"
+    },
+    {
+        "input_text": "騎呢大帝",
+        "output_text": "[\"騎呢\"]"
+    },
+    {
+        "input_text": "102斑點狗",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "不死劫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "選美俏臥底",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "火拼時速2",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "盜墓迷城2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "史力加",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "怪獸公司",
+        "output_text": "[\"怪獸\"]"
+    },
+    {
+        "input_text": "沉默的殺機",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔戒首部曲：魔戒現身",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "非常小特務",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "凶心人",
+        "output_text": "[\"凶心\"]"
+    },
+    {
+        "input_text": "走佬俏公主",
+        "output_text": "[\"俏\"]"
+    },
+    {
+        "input_text": "黐孖妹",
+        "output_text": "[\"黐孖\"]"
+    },
+    {
+        "input_text": "迷失帝國：阿特蘭蒂斯",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "邊緣特訓",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "騎呢兩兜友",
+        "output_text": "[\"騎呢\"]"
+    },
+    {
+        "input_text": "天擊戰線",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "癲才家族",
+        "output_text": "[\"癲\"]"
+    },
+    {
+        "input_text": "搞乜鬼青春雜作",
+        "output_text": "[\"搞乜鬼\"]"
+    },
+    {
+        "input_text": "凸務之王決戰金大支",
+        "output_text": "[\"凸務\", \"決戰\"]"
+    },
+    {
+        "input_text": "驚兆",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冰河世紀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔戒二部曲：雙城奇謀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星球大戰前傳：複製人侵略",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "房不勝防",
+        "output_text": "[\"不勝防\"]"
+    },
+    {
+        "input_text": "麥·迪文",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "驚天核網",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "生化危機之變種生還者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "扮嘢小魔星",
+        "output_text": "[\"小魔星\"]"
+    },
+    {
+        "input_text": "花花",
+        "output_text": "[\"花花\"]"
+    },
+    {
+        "input_text": "未來報告",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "末路驕陽",
+        "output_text": "[\"驕陽\"]"
+    },
+    {
+        "input_text": "鬼船",
+        "output_text": "[\"鬼\"]"
+    },
+    {
+        "input_text": "八里公路",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "星空奪寶",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "此時·此刻",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "捉智雙雄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "新鐵金剛之不日殺機",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "衰鬼上帝",
+        "output_text": "[\"衰鬼\"]"
+    },
+    {
+        "input_text": "何必偏偏玩謝我",
+        "output_text": "[\"玩謝\"]"
+    },
+    {
+        "input_text": "魔盜王決戰鬼盜船",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "未來戰士3：殲滅者TX",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "海底奇兵",
+        "output_text": "[\"奇兵\"]"
+    },
+    {
+        "input_text": "鋼琴戰曲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "無主之城",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "22世紀殺人網絡3：驚變世紀",
+        "output_text": "[\"驚變\"]"
+    },
+    {
+        "input_text": "贖金之王2：皇廷激戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神奇小蛛網2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "漏網之靈",
+        "output_text": "[\"靈\"]"
+    },
+    {
+        "input_text": "來電險事",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "特務戇J",
+        "output_text": "[\"戇\"]"
+    },
+    {
+        "input_text": "盜墓者羅拉：生命之匙",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "瘟室",
+        "output_text": "[\"瘟室\"]"
+    },
+    {
+        "input_text": "種計",
+        "output_text": "[\"種計\"]"
+    },
+    {
+        "input_text": "特警雄風",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "靈靈狗",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "標殺令",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "殺手攻略",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "真的戀愛了",
+        "output_text": "[\"戀愛\"]"
+    },
+    {
+        "input_text": "樂一通反斗特攻隊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "畫意私情",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鬼咁多大屋",
+        "output_text": "[\"鬼咁\"]"
+    },
+    {
+        "input_text": "美麗女狼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "亂世情天",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "大魚奇緣",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超人特工隊",
+        "output_text": "[\"特工隊\"]"
+    },
+    {
+        "input_text": "驚天奪寶",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "明日之後",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "非常外父生擒霍老爺",
+        "output_text": "[\"生擒\"]"
+    },
+    {
+        "input_text": "北極快車",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "連鎖蝶變",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "每天愛妳第一次",
+        "output_text": "[\"愛\"]"
+    },
+    {
+        "input_text": "無痛失戀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "師奶殺手",
+        "output_text": "[\"殺手\"]"
+    },
+    {
+        "input_text": "標殺令2",
+        "output_text": "[\"殺令\"]"
+    },
+    {
+        "input_text": "狙魔人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "複製兒魂",
+        "output_text": "[\"兒魂\"]"
+    },
+    {
+        "input_text": "木馬屠城",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑煞天魔2：天域戰士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "機場客運站",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "加菲貓電影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "王者無敵",
+        "output_text": "[\"無敵\"]"
+    },
+    {
+        "input_text": "華氏 9/11",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "不道德的夏天",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "森魔",
+        "output_text": "[\"魔\"]"
+    },
+    {
+        "input_text": "異獸戰",
+        "output_text": "[\"異獸戰\"]"
+    },
+    {
+        "input_text": "同行殺機",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "駁命來電",
+        "output_text": "[\"駁命\"]"
+    },
+    {
+        "input_text": "生化危機之殲滅生還者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "笑死人凶間",
+        "output_text": "[\"笑死人\"]"
+    },
+    {
+        "input_text": "鯊膽大話王",
+        "output_text": "[\"鯊膽\", \"大話王\"]"
+    },
+    {
+        "input_text": "哲古華拉少年日記",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小飛俠前傳之魔幻童心",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "因乜家事過聖誕",
+        "output_text": "[\"過聖誕\"]"
+    },
+    {
+        "input_text": "合盜偷天",
+        "output_text": "[\"偷天\"]"
+    },
+    {
+        "input_text": "BJ單身日記：愛你不愛你",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鳳凰號",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "幽靈刺客III：終極屍殺",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星球大戰前傳：黑帝君臨",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "強戰世界宇宙戰爭",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "湯姆·肯尼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔幻王國：獅子·女巫·魔衣櫥",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蝙蝠俠—俠影之謎",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "叛譯者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "湊仔型警",
+        "output_text": "[\"湊仔型警\"]"
+    },
+    {
+        "input_text": "哈爾移動城堡",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "泰山前傳",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神奇4俠",
+        "output_text": "[\"神奇\"]"
+    },
+    {
+        "input_text": "無國界追兇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超級無敵掌門狗之世紀大騙兔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星空反擊戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "四眼雞丁",
+        "output_text": "[\"雞丁\"]"
+    },
+    {
+        "input_text": "怪誕屍新娘",
+        "output_text": "[\"怪誕\"]"
+    },
+    {
+        "input_text": "踢躂小企鵝",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冰河世紀2",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "尋找快樂的故事",
+        "output_text": "[\"快樂\"]"
+    },
+    {
+        "input_text": "變種特攻：兩極爭霸",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超人—強戰回歸",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "吸煙無罪",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "4條腿拯救隊",
+        "output_text": "[\"拯救\"]"
+    },
+    {
+        "input_text": "加菲貓2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "狂野極速：飄移東京",
+        "output_text": "[\"狂野\", \"極速\"]"
+    },
+    {
+        "input_text": "在晴朗的一天收檔",
+        "output_text": "[\"晴朗\"]"
+    },
+    {
+        "input_text": "情流戀屋",
+        "output_text": "[\"戀\"]"
+    },
+    {
+        "input_text": "命運自選台",
+        "output_text": "[\"正\", \"過癮\"]"
+    },
+    {
+        "input_text": "魔怪屋",
+        "output_text": "[\"魔怪\"]"
+    },
+    {
+        "input_text": "禍水",
+        "output_text": "[\"禍水\"]"
+    },
+    {
+        "input_text": "陽光小小姐",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "毒蛇嚇機",
+        "output_text": "[\"毒蛇\"]"
+    },
+    {
+        "input_text": "艷屍案中案",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "戰火旗蹟",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "死亡魔法",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "巴別塔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "沖出水世界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "醇美年華",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "CIA驚天殺局",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "史力加3",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "末代浩劫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "花鼠明星俱樂部",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "驚天奪寶：世紀秘冊",
+        "output_text": "[\"驚天\", \"奪寶\"]"
+    },
+    {
+        "input_text": "加勒比海盜：魔盜王終極之戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冧歌有情人",
+        "output_text": "[\"冧歌\"]"
+    },
+    {
+        "input_text": "殺謎藏",
+        "output_text": "[\"殺\", \"謎藏\"]"
+    },
+    {
+        "input_text": "羅拔神奇家族",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "嚟多件衰鬼上帝",
+        "output_text": "[\"衰鬼\"]"
+    },
+    {
+        "input_text": "滑浪奇兵",
+        "output_text": "[\"奇兵\"]"
+    },
+    {
+        "input_text": "五星級大鼠",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "美味不設防",
+        "output_text": "[\"美味\"]"
+    },
+    {
+        "input_text": "太陽倒數",
+        "output_text": "[\"倒數\"]"
+    },
+    {
+        "input_text": "虎膽龍威4.0",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神奇4俠：銀魔現身",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "火拼時速3",
+        "output_text": "[\"火拼\"]"
+    },
+    {
+        "input_text": "大吉利是有限公司",
+        "output_text": "[\"大吉利是\"]"
+    },
+    {
+        "input_text": "屍城30夜",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "生化危機3：絕種生還者",
+        "output_text": "[\"絕種\"]"
+    },
+    {
+        "input_text": "恐懼鬥室4之回頭是岸",
+        "output_text": "[\"恐懼\", \"鬥室\", \"回頭是岸\"]"
+    },
+    {
+        "input_text": "犯罪帝國",
+        "output_text": "[\"犯罪帝國\"]"
+    },
+    {
+        "input_text": "殺手47",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔戰王：貝奧武夫",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "魔幻羅盤",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "留給最愛的情書",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑金風雲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蝙蝠俠—黑夜之神",
+        "output_text": "[\"黑夜之神\"]"
+    },
+    {
+        "input_text": "荒失失奇兵2",
+        "output_text": "[\"奇兵\"]"
+    },
+    {
+        "input_text": "太空奇兵·威E",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "積·伯克",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔街理髮師",
+        "output_text": "[\"魔街\"]"
+    },
+    {
+        "input_text": "末世凶煞",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "賤郎300",
+        "output_text": "[\"賤\"]"
+    },
+    {
+        "input_text": "新鐵金剛之量子殺機",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "27宜嫁",
+        "output_text": "[\"宜嫁\"]"
+    },
+    {
+        "input_text": "越空行者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "殺手沒有假期",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超低能特攻隊",
+        "output_text": "[\"低能\"]"
+    },
+    {
+        "input_text": "夜行悍探",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "色慾都市",
+        "output_text": "[\"色慾\"]"
+    },
+    {
+        "input_text": "天魔特攻之鬼魅兵團",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "殺神特工",
+        "output_text": "[\"殺神\"]"
+    },
+    {
+        "input_text": "雷霆喪星",
+        "output_text": "[\"喪星\"]"
+    },
+    {
+        "input_text": "無聲火2.0",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "叛諜同謀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鷹眼追擊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔間煞星",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "換命謊言",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "穿囚衣的孩子",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超級零零狗",
+        "output_text": "[\"超級零零狗\"]"
+    },
+    {
+        "input_text": "讀愛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "夏菲米克的時代",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "澳大利亞",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "奇幻逆緣",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "乜都得先生",
+        "output_text": "[\"得\"]"
+    },
+    {
+        "input_text": "哈利波特—混血王子的背叛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "醉爆伴郎團",
+        "output_text": "[\"醉爆\", \"爆\"]"
+    },
+    {
+        "input_text": "華爾基利暗殺行動",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "守護有心人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "花鼠明星俱樂部2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "變形金剛：狂派再起",
+        "output_text": "[\"狂派\"]"
+    },
+    {
+        "input_text": "吸血新世紀2：新月傳奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "森林反恐隊2",
+        "output_text": "[\"反恐\"]"
+    },
+    {
+        "input_text": "怪誕隨意門",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超能風暴",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星空奇遇記",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "保衛奇俠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "地球毀滅密碼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天煞撞正怪怪獸",
+        "output_text": "[\"天煞\", \"怪怪獸\"]"
+    },
+    {
+        "input_text": "狂野時速4",
+        "output_text": "[\"狂野\"]"
+    },
+    {
+        "input_text": "娶妻求伴郎",
+        "output_text": "[\"求伴郎\"]"
+    },
+    {
+        "input_text": "我係殺手年中無休",
+        "output_text": "[\"無休\"]"
+    },
+    {
+        "input_text": "月劫餘生",
+        "output_text": "[\"劫餘生\"]"
+    },
+    {
+        "input_text": "變種特攻：狼人外傳",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "未來戰士2018",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冰河世紀3：大威龍駕到",
+        "output_text": "[\"威龍\"]"
+    },
+    {
+        "input_text": "求婚的惡魔",
+        "output_text": "[\"惡魔\"]"
+    },
+    {
+        "input_text": "波兒出城之妖壇教祖3點「畢露」搞硬美國佬",
+        "output_text": "[\"畢露\", \"搞硬\"]"
+    },
+    {
+        "input_text": "D-9異形禁區",
+        "output_text": "[\"禁區\"]"
+    },
+    {
+        "input_text": "希魔撞正殺人狂",
+        "output_text": "[\"撞正\"]"
+    },
+    {
+        "input_text": "崖上の波兒、崖上的波兒",
+        "output_text": "[\"波兒\"]"
+    },
+    {
+        "input_text": "義勇群英之毒蛇風暴",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "電玩逃殺王",
+        "output_text": "[\"逃殺\"]"
+    },
+    {
+        "input_text": "情迷靚肌佬",
+        "output_text": "[\"情迷\", \"靚\"]"
+    },
+    {
+        "input_text": "胡士托風波",
+        "output_text": "[\"風波\"]"
+    },
+    {
+        "input_text": "午夜靈異錄像",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "偽能叛變",
+        "output_text": "[\"叛變\"]"
+    },
+    {
+        "input_text": "喪屍樂園",
+        "output_text": "[\"喪屍\"]"
+    },
+    {
+        "input_text": "美食風球",
+        "output_text": "[\"正\", \"過癮\"]"
+    },
+    {
+        "input_text": "非常戇男離奇失婚",
+        "output_text": "[\"戇男\", \"離奇\"]"
+    },
+    {
+        "input_text": "奉公守法",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "恐懼鬥室6之萬罰朝中",
+        "output_text": "[\"恐懼\"]"
+    },
+    {
+        "input_text": "外星51",
+        "output_text": "[\"正\", \"勁\", \"過癮\"]"
+    },
+    {
+        "input_text": "2012末日預言",
+        "output_text": "[\"末日\"]"
+    },
+    {
+        "input_text": "屍中罪",
+        "output_text": "[\"罪\"]"
+    },
+    {
+        "input_text": "狐狸先生無得頂",
+        "output_text": "[\"無得頂\"]"
+    },
+    {
+        "input_text": "走佬決勝婚",
+        "output_text": "[\"走佬\", \"決勝\"]"
+    },
+    {
+        "input_text": "吸血新世紀3：月蝕傳奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "哈利波特－死神的聖物1",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "聲聲相識",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐵甲奇俠2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "壞蛋獎門人",
+        "output_text": "[\"壞蛋\"]"
+    },
+    {
+        "input_text": "潛行兇間",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "史力加萬歲萬萬歲",
+        "output_text": "[\"萬歲\", \"萬萬歲\"]"
+    },
+    {
+        "input_text": "反斗奇兵3",
+        "output_text": "[\"反斗\"]"
+    },
+    {
+        "input_text": "2019獵血都市",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "末世天書",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "不赦島",
+        "output_text": "[\"不赦\"]"
+    },
+    {
+        "input_text": "緣滿情人節",
+        "output_text": "[\"緣滿\"]"
+    },
+    {
+        "input_text": "獵捕者",
+        "output_text": "[\"獵捕者\"]"
+    },
+    {
+        "input_text": "諗多咗先生",
+        "output_text": "[\"諗多咗\"]"
+    },
+    {
+        "input_text": "型爆特攻隊",
+        "output_text": "[\"型爆\"]"
+    },
+    {
+        "input_text": "波斯王子：超時空之戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "通天奇兵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "勁揪俠",
+        "output_text": "[\"勁揪\"]"
+    },
+    {
+        "input_text": "戀戰特務王",
+        "output_text": "[\"戀戰\"]"
+    },
+    {
+        "input_text": "叛諜狂花",
+        "output_text": "[\"狂\"]"
+    },
+    {
+        "input_text": "鐵血戰士S",
+        "output_text": "[\"鐵血\"]"
+    },
+    {
+        "input_text": "神風終極戰士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "轟天猛將",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "地海傳說",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "生化危機3D：戰神再生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "爆女大格鬥",
+        "output_text": "[\"爆\", \"大格鬥\"]"
+    },
+    {
+        "input_text": "升降凶間",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "守護神傳奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "華爾街之金融大鱷",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "吸血兒凶",
+        "output_text": "[\"凶\"]"
+    },
+    {
+        "input_text": "午夜來嚇",
+        "output_text": "[\"嚇\"]"
+    },
+    {
+        "input_text": "恐懼鬥室3D：終極審判",
+        "output_text": "[\"恐懼\", \"鬥室\", \"終極審判\"]"
+    },
+    {
+        "input_text": "湊仔戀咁嚟",
+        "output_text": "[\"戀咁嚟\"]"
+    },
+    {
+        "input_text": "毛百萬",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "通靈感應",
+        "output_text": "[\"感應\"]"
+    },
+    {
+        "input_text": "愛情戀上癮",
+        "output_text": "[\"戀上癮\"]"
+    },
+    {
+        "input_text": "創戰紀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "機密邂逅",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "非常外父3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "變形金剛：黑月降臨",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "狂野時速5",
+        "output_text": "[\"狂野\"]"
+    },
+    {
+        "input_text": "神探福爾摩斯：詭影遊戲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "反斗車王2",
+        "output_text": "[\"反斗\"]"
+    },
+    {
+        "input_text": "加勒比海盜：魔盜狂潮",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "吸血新世紀4：破曉傳奇上集",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "關鍵第4號",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "馬拉高",
+        "output_text": "[\"馬拉高\"]"
+    },
+    {
+        "input_text": "偷食通行證",
+        "output_text": "[\"偷食\"]"
+    },
+    {
+        "input_text": "異形侵略戰",
+        "output_text": "[\"侵略\"]"
+    },
+    {
+        "input_text": "雷神奇俠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "危機解密",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "逆天潛能",
+        "output_text": "[\"逆天\"]"
+    },
+    {
+        "input_text": "兒凶",
+        "output_text": "[\"凶\"]"
+    },
+    {
+        "input_text": "天神魔煞",
+        "output_text": "[\"魔煞\"]"
+    },
+    {
+        "input_text": "積·伯克",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "最爆伴娘團",
+        "output_text": "[\"爆\"]"
+    },
+    {
+        "input_text": "S8驚世檔案",
+        "output_text": "[\"驚世\"]"
+    },
+    {
+        "input_text": "基爸愛留情",
+        "output_text": "[\"愛\"]"
+    },
+    {
+        "input_text": "美國隊長：復仇者先鋒",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "邊個波士唔抵死？",
+        "output_text": "[\"抵死\"]"
+    },
+    {
+        "input_text": "天煞西部反擊戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "戀搞好朋友",
+        "output_text": "[\"戀搞\"]"
+    },
+    {
+        "input_text": "死神5來了",
+        "output_text": "[\"死神\"]"
+    },
+    {
+        "input_text": "鋼鐵鬥士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "極速罪駕",
+        "output_text": "[\"罪駕\"]"
+    },
+    {
+        "input_text": "風雨同路兩支公",
+        "output_text": "[\"風雨同路\"]"
+    },
+    {
+        "input_text": "孖展風雲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天魔戰神",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "亞瑟少爺救聖誕",
+        "output_text": "[\"救\"]"
+    },
+    {
+        "input_text": "潛逃時空",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雨果的巴黎奇幻歷險",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "J·艾德格",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雷霆戰駒",
+        "output_text": "[\"戰駒\"]"
+    },
+    {
+        "input_text": "占美·比爾",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "世紀末光煞",
+        "output_text": "[\"光煞\"]"
+    },
+    {
+        "input_text": "花鼠明星俱樂部3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "哈比人：不思議之旅",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "新鐵金剛：智破天凶城",
+        "output_text": "[\"智破\"]"
+    },
+    {
+        "input_text": "響在耳邊，近在眼前",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蝙蝠俠—夜神起義",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蜘蛛俠：驚世現新",
+        "output_text": "[\"驚世\"]"
+    },
+    {
+        "input_text": "荒失失奇兵3：歐洲逐隻捉",
+        "output_text": "[\"荒失失\"]"
+    },
+    {
+        "input_text": "勇敢傳說之幻險森林",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "再說一次我願意",
+        "output_text": "[\"願意\"]"
+    },
+    {
+        "input_text": "吸血新世紀4：破曉傳奇下集",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "奪命異能",
+        "output_text": "[\"奪命\"]"
+    },
+    {
+        "input_text": "海豹突擊隊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "爭女特務王",
+        "output_text": "[\"爭女\", \"特務王\"]"
+    },
+    {
+        "input_text": "逃學黐孖咇",
+        "output_text": "[\"黐孖咇\"]"
+    },
+    {
+        "input_text": "狂‧神‧魔戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "海盜王之超級無敵大作戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "白雪公主之魔幻復仇記",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小學雞私奔記",
+        "output_text": "[\"私奔\"]"
+    },
+    {
+        "input_text": "光豬舞壯士",
+        "output_text": "[\"光豬\", \"壯士\"]"
+    },
+    {
+        "input_text": "叛諜追擊4：機密逃殺",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "亡命快遞",
+        "output_text": "[\"亡命\"]"
+    },
+    {
+        "input_text": "怪誕小學雞",
+        "output_text": "[\"怪誕\"]"
+    },
+    {
+        "input_text": "轟天猛將2",
+        "output_text": "[\"猛將\"]"
+    },
+    {
+        "input_text": "陰魂轉讓",
+        "output_text": "[\"陰魂\"]"
+    },
+    {
+        "input_text": "生化危機之滅絕真相",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "人生決勝球",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "警戰實錄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "少年自讀日記",
+        "output_text": "[\"自讀\"]"
+    },
+    {
+        "input_text": "辣妹合唱團",
+        "output_text": "[\"辣\"]"
+    },
+    {
+        "input_text": "癲狗喪七",
+        "output_text": "[\"癲\", \"喪\"]"
+    },
+    {
+        "input_text": "鬼靈精怪大酒店",
+        "output_text": "[\"鬼靈精怪\"]"
+    },
+    {
+        "input_text": "少年Pi的奇幻漂流",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "奪命無聲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "五星大聯盟",
+        "output_text": "[\"大聯盟\"]"
+    },
+    {
+        "input_text": "失戀自作業",
+        "output_text": "[\"失戀\"]"
+    },
+    {
+        "input_text": "黑殺令",
+        "output_text": "[\"黑殺\"]"
+    },
+    {
+        "input_text": "追擊拉登行動",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐵甲奇俠3",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超人：鋼鐵英雄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "哈比人：荒谷魔龍",
+        "output_text": "[\"正\", \"勁\", \"過癮\"]"
+    },
+    {
+        "input_text": "引力邊緣",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "格林雙俠：獵巫世紀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "喪星玩轉荷里活",
+        "output_text": "[\"喪星\", \"玩轉\"]"
+    },
+    {
+        "input_text": "反黑暴隊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "緣來藏不了",
+        "output_text": "[\"藏不了\"]"
+    },
+    {
+        "input_text": "魔法新世代",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "21成人鳥",
+        "output_text": "[\"成人鳥\"]"
+    },
+    {
+        "input_text": "私房嚇",
+        "output_text": "[\"嚇\"]"
+    },
+    {
+        "input_text": "盜冒者肥花",
+        "output_text": "[\"肥花\"]"
+    },
+    {
+        "input_text": "白宮淪陷",
+        "output_text": "[\"淪陷\"]"
+    },
+    {
+        "input_text": "古魯家族",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天煞逆緣",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "末路車神",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "攻·元2077",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "義勇群英之毒蛇反擊戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "筋肉擄笠黨",
+        "output_text": "[\"擄笠\"]"
+    },
+    {
+        "input_text": "星空奇遇記：黑域時空",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "末日1000年",
+        "output_text": "[\"末日\"]"
+    },
+    {
+        "input_text": "凡事哈",
+        "output_text": "[\"哈\"]"
+    },
+    {
+        "input_text": "非常盜",
+        "output_text": "[\"盜\"]"
+    },
+    {
+        "input_text": "國定殺戮日",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "綠國奇兵",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星級末日",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "地球末日戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "猛火爆2",
+        "output_text": "[\"猛火爆\"]"
+    },
+    {
+        "input_text": "孖Gun雙雄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "情迷藍茉莉",
+        "output_text": "[\"情迷\"]"
+    },
+    {
+        "input_text": "極速TURBO",
+        "output_text": "[\"極速\", \"TURBO\"]"
+    },
+    {
+        "input_text": "詭屋驚凶實錄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "極樂帝國2154",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "名瞞戇族",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美食風球2",
+        "output_text": "[\"正\", \"過癮\"]"
+    },
+    {
+        "input_text": "盜海狙擊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑煞天魔3：星獸浩劫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑權大狀",
+        "output_text": "[\"黑權\"]"
+    },
+    {
+        "input_text": "回到最愛的一天",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "逃亡大計",
+        "output_text": "[\"逃亡大計\"]"
+    },
+    {
+        "input_text": "索女·重炮·神經刀",
+        "output_text": "[\"索女\", \"重炮\", \"神經刀\"]"
+    },
+    {
+        "input_text": "續命梟雄",
+        "output_text": "[\"續命梟雄\"]"
+    },
+    {
+        "input_text": "洩密風雲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "雷神奇俠2：黑暗世界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "騙海豪情",
+        "output_text": "[\"豪情\"]"
+    },
+    {
+        "input_text": "危情假期",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "變形金剛：殲滅世紀",
+        "output_text": "[\"殲滅\"]"
+    },
+    {
+        "input_text": "飢餓遊戲終極篇：自由幻夢1",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑魔后：沉睡魔咒",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "LEGO英雄傳",
+        "output_text": "[\"英雄\"]"
+    },
+    {
+        "input_text": "哈比人：五軍之戰",
+        "output_text": "[\"正\", \"勁\", \"過癮\"]"
+    },
+    {
+        "input_text": "大英雄聯盟",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "龐貝末日：天火焚城",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "3日限殺令",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "挪亞：滅世啟示",
+        "output_text": "[\"滅世\"]"
+    },
+    {
+        "input_text": "毒火追擊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "戰狼300：帝國崛起",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "分歧者·異類叛逃",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "奪命西",
+        "output_text": "[\"奪命\"]"
+    },
+    {
+        "input_text": "囧探出更",
+        "output_text": "[\"囧\"]"
+    },
+    {
+        "input_text": "滋味旅程",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "異空戰士",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "馴龍記2",
+        "output_text": "[\"正\", \"勁\", \"過癮\", \"開心\"]"
+    },
+    {
+        "input_text": "蜘蛛俠2：決戰電魔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "末世列車",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "國定殺戮日：全民瘋殺",
+        "output_text": "[\"瘋殺\"]"
+    },
+    {
+        "input_text": "春光乍網",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "LUCY：超能煞姬",
+        "output_text": "[\"煞姬\"]"
+    },
+    {
+        "input_text": "叛諜裁判",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "未來叛變",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "亡命救參",
+        "output_text": "[\"亡命\"]"
+    },
+    {
+        "input_text": "詭娃安娜貝爾",
+        "output_text": "[\"詭娃\"]"
+    },
+    {
+        "input_text": "怪誕小箱俠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "一起黑爆的日子",
+        "output_text": "[\"黑爆\"]"
+    },
+    {
+        "input_text": "殺神John Wick",
+        "output_text": "[\"殺神\"]"
+    },
+    {
+        "input_text": "青龍",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "出埃及記：神王帝國",
+        "output_text": "[\"神王\"]"
+    },
+    {
+        "input_text": "大眼睛奇緣",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "刺殺金正恩",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "呢班波士仲抵死！",
+        "output_text": "[\"抵死\"]"
+    },
+    {
+        "input_text": "荒失失企鵝",
+        "output_text": "[\"荒失失\"]"
+    },
+    {
+        "input_text": "非凡生命歷",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蝙蝠俠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "海底奇兵2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "死侍：不死現身死侍",
+        "output_text": "[\"死侍\"]"
+    },
+    {
+        "input_text": "蝙蝠俠對超人：正義曙光",
+        "output_text": "[\"正義\"]"
+    },
+    {
+        "input_text": "自殺特攻：超能暴隊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "俠盜一號：星球大戰外傳",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "Pet Pet當家",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美國隊長3：英雄內戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "萬千星輝綁架案",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "第五天劫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "傲慢與屍變",
+        "output_text": "[\"傲慢\"]"
+    },
+    {
+        "input_text": "埃及神戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "999犯罪禁區",
+        "output_text": "[\"犯罪\"]"
+    },
+    {
+        "input_text": "末世街10號",
+        "output_text": "[\"末世\"]"
+    },
+    {
+        "input_text": "白宮淪陷2：倫敦淪陷",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "爆機特攻",
+        "output_text": "[\"爆機\"]"
+    },
+    {
+        "input_text": "赤誠者·末世醒覺",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "換腦緝兇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "愛情上半場·完",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "獵神：魔雪叛變",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "沙地阿拉發",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "復仇聚會",
+        "output_text": "[\"復仇\"]"
+    },
+    {
+        "input_text": "憤怒鳥大電影",
+        "output_text": "[\"憤怒\"]"
+    },
+    {
+        "input_text": "非常盜2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鍾斯的自由國度",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "吹夢的巨人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天煞地球反擊戰：復甦紀元",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "國定殺戮日：大選狂屠",
+        "output_text": "[\"狂屠\"]"
+    },
+    {
+        "input_text": "泰山傳奇：森林爭霸",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "捉鬼敢死隊",
+        "output_text": "[\"敢死\"]"
+    },
+    {
+        "input_text": "變種特攻：天啟滅世戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "極限挑機",
+        "output_text": "[\"極限挑機\"]"
+    },
+    {
+        "input_text": "神奇虎爸",
+        "output_text": "[\"神奇\"]"
+    },
+    {
+        "input_text": "星空奇遇記：超域時空",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "洋腸派對",
+        "output_text": "[\"洋腸\"]"
+    },
+    {
+        "input_text": "叛諜追擊5：身份重啟",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "秒速殺機2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "C奶同學會",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "禁室殺戮",
+        "output_text": "[\"殺戮\"]"
+    },
+    {
+        "input_text": "薩利機長：迫降奇蹟",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "暗算",
+        "output_text": "[\"暗算\"]"
+    },
+    {
+        "input_text": "BJ 單身日記：生得啦BABY",
+        "output_text": "[\"生得啦\"]"
+    },
+    {
+        "input_text": "烈探狙擊：誓不回頭",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鋼鋸嶺",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天煞異降",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "伴諜同盟",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "怪獸與牠們的產地",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "今個聖誕無銀用",
+        "output_text": "[\"無銀用\"]"
+    },
+    {
+        "input_text": "情繫海邊之城",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "最美麗的安排",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星聲夢裡人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "太空潛航者",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "圍欄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "未來外父插女婿",
+        "output_text": "[\"插\"]"
+    },
+    {
+        "input_text": "NASA無名英雌",
+        "output_text": "[\"無名英雌\"]"
+    },
+    {
+        "input_text": "刺客教條",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "恐襲波士頓馬拉松",
+        "output_text": "[\"恐襲\"]"
+    },
+    {
+        "input_text": "夜行人生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "藍精靈3：迷失的村莊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "異形：聖約",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "讓我心呼吸",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "霓裳魅影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "復仇者聯盟3：無限之戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "末日荒原",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超能復仇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "闇黑之心",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "瘦魔人",
+        "output_text": "[\"瘦魔人\"]"
+    },
+    {
+        "input_text": "星夢情深",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "特務戇J：神級歸位",
+        "output_text": "[\"戇\", \"神級\"]"
+    },
+    {
+        "input_text": "移動城市：致命引擎",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "三重邊界",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑超特警組：反轉世界",
+        "output_text": "[\"反轉\"]"
+    },
+    {
+        "input_text": "憤怒鳥大電影2",
+        "output_text": "[\"憤怒\"]"
+    },
+    {
+        "input_text": "安眠醫生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "未來戰士：黑暗命運",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神探俏嬌娃",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "極地守護犬",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "TENET天能",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "萬聖節救星修比",
+        "output_text": "[\"救星\", \"正\"]"
+    },
+    {
+        "input_text": "永夜漂流",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "靈魂奇遇記",
+        "output_text": "[\"奇遇\"]"
+    },
+    {
+        "input_text": "真人快打",
+        "output_text": "[\"快打\"]"
+    },
+    {
+        "input_text": "奇幻魔法屋",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "犬山記",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "熊抱青春記",
+        "output_text": "[\"青春\"]"
+    },
+    {
+        "input_text": "黑豹2：瓦干達萬歲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蜘蛛俠：飛躍蜘蛛宇宙",
+        "output_text": "[\"正\", \"勁\", \"過癮\"]"
+    },
+    {
+        "input_text": "Barbie芭比",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "老嘢時速",
+        "output_text": "[\"老嘢\"]"
+    },
+    {
+        "input_text": "藍精靈大電影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "長相黐守",
+        "output_text": "[\"黐守\"]"
+    },
+    {
+        "input_text": "逃亡遊戲",
+        "output_text": "[\"逃亡\"]"
+    },
+    {
+        "input_text": "桂河橋",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "埃及妖后",
+        "output_text": "[\"妖后\"]"
+    },
+    {
+        "input_text": "雪花高離奇命案",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "愛·誘·罪",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "傳奇女王伊利沙伯：黃金盛世",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "戇豆放大假",
+        "output_text": "[\"戇豆\"]"
+    },
+    {
+        "input_text": "神探福爾摩斯",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "影子滅殺令",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "百勝雄師",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "皮下之慌",
+        "output_text": "[\"慌\"]"
+    },
+    {
+        "input_text": "接聽風雲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "狼人：武士激戰",
+        "output_text": "[\"激戰\"]"
+    },
+    {
+        "input_text": "解碼遊戲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "皇家特工：間諜密令",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "戰逆豪情",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "霍金：愛的方程式",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超級無敵羊咩咩大電影之咩最勁！",
+        "output_text": "[\"超級無敵\", \"勁\"]"
+    },
+    {
+        "input_text": "華麗怪盜",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "木昇戰紀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "緣來他不夠愛我",
+        "output_text": "[\"愛\"]"
+    },
+    {
+        "input_text": "虛擬智能智能叛侶",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "叛國追兇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "珠峰浩劫",
+        "output_text": "[\"浩劫\"]"
+    },
+    {
+        "input_text": "特務型戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "火星任務",
+        "output_text": "[\"正\", \"過癮\"]"
+    },
+    {
+        "input_text": "極黑勢力",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "刺客特攻47",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "抖室",
+        "output_text": "[\"抖室\"]"
+    },
+    {
+        "input_text": "時代教主：喬布斯",
+        "output_text": "[\"教主\"]"
+    },
+    {
+        "input_text": "漫漫回家路",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神的孩子在戀愛",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "迷幻列車2",
+        "output_text": "[\"迷幻\"]"
+    },
+    {
+        "input_text": "情謎梵高",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "弊傢伙！史太林死咗",
+        "output_text": "[\"弊傢伙\"]"
+    },
+    {
+        "input_text": "默",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "未來殺姬：Anon",
+        "output_text": "[\"殺姬\"]"
+    },
+    {
+        "input_text": "冷戰戀曲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "超級無敵羊咩咩大電影之天外飛咩",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "上流落水狗",
+        "output_text": "[\"上流\", \"落水狗\"]"
+    },
+    {
+        "input_text": "敢愛咁做",
+        "output_text": "[\"敢愛\"]"
+    },
+    {
+        "input_text": "大亨小傳",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "逆時空狙擊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "醫人當自強",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "少年悍將GO！",
+        "output_text": "[\"悍將\"]"
+    },
+    {
+        "input_text": "至Net奇兵",
+        "output_text": "[\"Net\"]"
+    },
+    {
+        "input_text": "超級無敵羊咩咩",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "熊熊遇見你",
+        "output_text": "[\"遇見你\"]"
+    },
+    {
+        "input_text": "寶石戰士Steven",
+        "output_text": "[\"正\", \"勁\", \"過癮\", \"開心\"]"
+    },
+    {
+        "input_text": "瓢蟲少女",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "碳變",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "獨行殺姬",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蓋酷家庭",
+        "output_text": "[\"酷\"]"
+    },
+    {
+        "input_text": "阿森一族",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "外籍人士",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "占士登場",
+        "output_text": "[\"登場\"]"
+    },
+    {
+        "input_text": "湯馬仕小火車",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "嗜血判官",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "患難姊妹花",
+        "output_text": "[\"患難\"]"
+    },
+    {
+        "input_text": "監獄瘋球",
+        "output_text": "[\"瘋\"]"
+    },
+    {
+        "input_text": "男兒當入樽",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "走得麼新郎哥",
+        "output_text": "[\"走得麼\"]"
+    },
+    {
+        "input_text": "彩虹曲",
+        "output_text": "[\"彩虹曲\"]"
+    },
+    {
+        "input_text": "無敵波霸",
+        "output_text": "[\"無敵\", \"波霸\"]"
+    },
+    {
+        "input_text": "橫財三千萬",
+        "output_text": "[\"橫財\"]"
+    },
+    {
+        "input_text": "無敵勁撻王",
+        "output_text": "[\"無敵\", \"勁\"]"
+    },
+    {
+        "input_text": "愛情決勝分",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "蠢蠢欲動",
+        "output_text": "[\"蠢蠢欲動\"]"
+    },
+    {
+        "input_text": "超級無敵世界波",
+        "output_text": "[\"超級無敵世界波\"]"
+    },
+    {
+        "input_text": "特務大臨演",
+        "output_text": "[\"大臨演\"]"
+    },
+    {
+        "input_text": "一代滑冰男",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "豆丁小鬼隊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "滑浪奇兵",
+        "output_text": "[\"奇兵\"]"
+    },
+    {
+        "input_text": "街頭祖霸王",
+        "output_text": "[\"霸王\"]"
+    },
+    {
+        "input_text": "絕世車王",
+        "output_text": "[\"絕世\"]"
+    },
+    {
+        "input_text": "嘮嘈神父摔跤你",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "後備天王",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "3000先生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "飛機總動員2：救火大行動",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "摔角老師",
+        "output_text": "[\"過癮\"]"
+    },
+    {
+        "input_text": "太空也入樽：改朝換代",
+        "output_text": "[\"正\", \"勁\", \"過癮\"]"
+    },
+    {
+        "input_text": "極速TURBO",
+        "output_text": "[\"極速TURBO\"]"
+    },
+    {
+        "input_text": "球場古惑仔2",
+        "output_text": "[\"古惑仔\"]"
+    },
+    {
+        "input_text": "拳壇大老千",
+        "output_text": "[\"大老千\"]"
+    },
+    {
+        "input_text": "惡爸臨門",
+        "output_text": "[\"惡\"]"
+    },
+    {
+        "input_text": "太空也入樽",
+        "output_text": "[\"入樽\"]"
+    },
+    {
+        "input_text": "八里公路",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "戀愛心曲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美女與野獸：歡樂城堡",
+        "output_text": "[\"歡樂\"]"
+    },
+    {
+        "input_text": "夜行殺陣",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "神魔奇緣",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "防彈戰將",
+        "output_text": "[\"戰將\"]"
+    },
+    {
+        "input_text": "仙履奇緣3：魔法逆轉",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "迪士尼公主奇幻旅程之向夢想飛翔",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "歡樂合唱團：3D演唱會",
+        "output_text": "[\"歡樂\"]"
+    },
+    {
+        "input_text": "戰地笙歌",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "春滿瑤台",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "鐘樓駝俠",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "迷失巨聲",
+        "output_text": "[\"迷失\"]"
+    },
+    {
+        "input_text": "蝶舞鶯歌",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔王回歸",
+        "output_text": "[\"回歸\"]"
+    },
+    {
+        "input_text": "舞出真我2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "3D 舞出真我4",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "舞出真我5",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "魔街理髮師",
+        "output_text": "[\"魔街\"]"
+    },
+    {
+        "input_text": "喜劇天王",
+        "output_text": "[\"喜劇天王\"]"
+    },
+    {
+        "input_text": "星球大戰：帝國反擊戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "耶路撒冷的女兒",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "球戀大滿貫",
+        "output_text": "[\"大滿貫\"]"
+    },
+    {
+        "input_text": "進擊的大佬",
+        "output_text": "[\"大佬\"]"
+    },
+    {
+        "input_text": "蓋世黑霸王",
+        "output_text": "[\"黑霸王\"]"
+    },
+    {
+        "input_text": "情迷聲色時光",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "搞事樂園",
+        "output_text": "[\"樂園\"]"
+    },
+    {
+        "input_text": "新鐵金剛之明日帝國",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "綠野仙生",
+        "output_text": "[\"正\", \"過癮\"]"
+    },
+    {
+        "input_text": "職業特工隊3",
+        "output_text": "[\"特工隊\"]"
+    },
+    {
+        "input_text": "總統與歌神",
+        "output_text": "[\"歌神\"]"
+    },
+    {
+        "input_text": "複雜關係",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "舞出真我3D",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "幽靈刺客2：變種復活",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "普通人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "有你終生美麗",
+        "output_text": "[\"美麗\"]"
+    },
+    {
+        "input_text": "黐筋雙响炮",
+        "output_text": "[\"黐筋\"]"
+    },
+    {
+        "input_text": "鐵金剛勇破海底城",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "甜心先生",
+        "output_text": "[\"甜心\"]"
+    },
+    {
+        "input_text": "斯諾登風暴",
+        "output_text": "[\"風暴\"]"
+    },
+    {
+        "input_text": "夠薑四小強",
+        "output_text": "[\"夠薑\"]"
+    },
+    {
+        "input_text": "古文明救兵",
+        "output_text": "[\"救兵\"]"
+    },
+    {
+        "input_text": "黑鷹15小時",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "喪Paul外星人",
+        "output_text": "[\"喪\"]"
+    },
+    {
+        "input_text": "窺兇殺人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "醉酒俏佳人",
+        "output_text": "[\"俏\"]"
+    },
+    {
+        "input_text": "喪屍樂園：連環屍殺",
+        "output_text": "[\"喪屍\", \"樂園\", \"屍殺\"]"
+    },
+    {
+        "input_text": "天眼狙擊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "奪面雙雄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星夢動物園",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "寶貝智多星",
+        "output_text": "[\"智多星\"]"
+    },
+    {
+        "input_text": "恐懼鬥室V：人面獸心恐懼鬥室5之人面獸心",
+        "output_text": "[\"恐懼\", \"人面獸心\"]"
+    },
+    {
+        "input_text": "叛諜追擊3：最後通牒",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "球場古惑仔",
+        "output_text": "[\"古惑仔\"]"
+    },
+    {
+        "input_text": "鋼琴別戀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天煞-地球反擊戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天羅盜網",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "單身又如何",
+        "output_text": "[\"如何\"]"
+    },
+    {
+        "input_text": "靈通汪星人",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔海奇緣",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "邪靈2",
+        "output_text": "[\"邪靈\"]"
+    },
+    {
+        "input_text": "迫良持槍",
+        "output_text": "[\"迫良\"]"
+    },
+    {
+        "input_text": "王子復仇記",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "新鐵金剛之黑日危機",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "逆權莊家",
+        "output_text": "[\"逆權\"]"
+    },
+    {
+        "input_text": "蟻哥正傳",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "列車女賊",
+        "output_text": "[\"女賊\"]"
+    },
+    {
+        "input_text": "屎波快閃隊",
+        "output_text": "[\"屎波\"]"
+    },
+    {
+        "input_text": "盜墓迷城3",
+        "output_text": "[\"迷城\"]"
+    },
+    {
+        "input_text": "熱爆MADAM",
+        "output_text": "[\"熱爆\"]"
+    },
+    {
+        "input_text": "朱古力獎門人",
+        "output_text": "[\"獎門人\"]"
+    },
+    {
+        "input_text": "情留半天",
+        "output_text": "[\"情留\"]"
+    },
+    {
+        "input_text": "解凍人生",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "情迷夢露7天",
+        "output_text": "[\"情迷\"]"
+    },
+    {
+        "input_text": "加勒比海盜：決戰魔盜王",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "21克—生命可以有多重？",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星際啟示錄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "黑金迷牆",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "布魯克林之戀",
+        "output_text": "[\"戀\"]"
+    },
+    {
+        "input_text": "浪魂47",
+        "output_text": "[\"浪魂\"]"
+    },
+    {
+        "input_text": "魔球",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "阿森一族大電影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "翻兜有情郎",
+        "output_text": "[\"有情郎\"]"
+    },
+    {
+        "input_text": "神勇敢死隊",
+        "output_text": "[\"神勇\", \"敢死\"]"
+    },
+    {
+        "input_text": "職業特工隊：鬼影約章",
+        "output_text": "[\"正\", \"勁\", \"過癮\"]"
+    },
+    {
+        "input_text": "叛諜追擊2：機密圈套",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "接棒情緣",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "沉默的赤龍",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "詭屋驚凶實錄2",
+        "output_text": "[\"驚凶\"]"
+    },
+    {
+        "input_text": "霓裳惡魔",
+        "output_text": "[\"惡魔\"]"
+    },
+    {
+        "input_text": "超級瑪利歐兄弟大電影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "窺心事",
+        "output_text": "[\"窺心事\"]"
+    },
+    {
+        "input_text": "V煞",
+        "output_text": "[\"V煞\"]"
+    },
+    {
+        "input_text": "滾搞了愛情",
+        "output_text": "[\"滾搞\"]"
+    },
+    {
+        "input_text": "不一樣的爸爸",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "受難曲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "約翰·C·韋利",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "午夜再來嚇",
+        "output_text": "[\"嚇\"]"
+    },
+    {
+        "input_text": "時凶獵殺",
+        "output_text": "[\"獵殺\"]"
+    },
+    {
+        "input_text": "波叔出城：哈薩克鄉下佬去美國搵著數",
+        "output_text": "[\"搵著數\"]"
+    },
+    {
+        "input_text": "80奔赴布萊迪",
+        "output_text": "[\"奔赴\"]"
+    },
+    {
+        "input_text": "魔間傳奇",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "性人君子",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "怪獸與鄧不利多的秘密",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "霧夜驚魂",
+        "output_text": "[\"驚魂\"]"
+    },
+    {
+        "input_text": "小泰山2：動物嘉年華",
+        "output_text": "[\"嘉年華\"]"
+    },
+    {
+        "input_text": "一級雙雄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "閃閃靚賊",
+        "output_text": "[\"靚\"]"
+    },
+    {
+        "input_text": "千言勿語",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "死蠢鬥一番之燥底耆兵",
+        "output_text": "[\"死蠢\", \"燥底\"]"
+    },
+    {
+        "input_text": "密碼一一四",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "熊之歷險",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "俠影魔龍",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "叛艦梟雄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "暴雨驕陽",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "我要做鷹雄",
+        "output_text": "[\"鷹雄\"]"
+    },
+    {
+        "input_text": "22世紀殺人網絡2：決戰未來",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "沙丘瀚戰前傳：預言",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "血仍未冷",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "風中奇緣2：新世界旅程",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "柏德遜",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "異形續集",
+        "output_text": "[\"續集\"]"
+    },
+    {
+        "input_text": "搞鬼棒球隊",
+        "output_text": "[\"搞鬼\"]"
+    },
+    {
+        "input_text": "黑暗對峙",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "美國牧歌",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "世紀戰疫",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "偷襲珍珠港",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔獸爭霸：戰雄崛起",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "宇宙生還戰—安達的戰爭遊戲",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "煩橙頭",
+        "output_text": "[\"煩橙\"]"
+    },
+    {
+        "input_text": "球愛可人兒",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "非正常械劫案",
+        "output_text": "[\"非正常\"]"
+    },
+    {
+        "input_text": "捉妖敢死隊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魔間行者",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "軍火狗",
+        "output_text": "[\"軍火狗\"]"
+    },
+    {
+        "input_text": "驚慄大師：希治閣",
+        "output_text": "[\"驚慄\"]"
+    },
+    {
+        "input_text": "真人Show",
+        "output_text": "[\"Show\"]"
+    },
+    {
+        "input_text": "3人愛過界",
+        "output_text": "[\"愛\"]"
+    },
+    {
+        "input_text": "傑克：巨魔獵人",
+        "output_text": "[\"獵人\"]"
+    },
+    {
+        "input_text": "史力加2",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "幕後反擊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "捉鬼敢死隊續集",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "少年悍將GO！大電影",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "再見小熊心",
+        "output_text": "[\"再見\"]"
+    },
+    {
+        "input_text": "枕邊冇情人",
+        "output_text": "[\"冇情人\"]"
+    },
+    {
+        "input_text": "龍威小子",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "冤家怕路",
+        "output_text": "[\"冤家\"]"
+    },
+    {
+        "input_text": "戇豆先生",
+        "output_text": "[\"戇\"]"
+    },
+    {
+        "input_text": "智能叛變",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "尋找快樂窩",
+        "output_text": "[\"快樂\"]"
+    },
+    {
+        "input_text": "蟲蟲特工隊",
+        "output_text": "[\"特工隊\"]"
+    },
+    {
+        "input_text": "大力戰神",
+        "output_text": "[\"戰神\"]"
+    },
+    {
+        "input_text": "邊個夠我薑",
+        "output_text": "[\"薑\"]"
+    },
+    {
+        "input_text": "變種特攻：未來同盟戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "頭條殺機",
+        "output_text": "[\"殺機\"]"
+    },
+    {
+        "input_text": "冰河世紀4：玩轉新大陸",
+        "output_text": "[\"玩轉\"]"
+    },
+    {
+        "input_text": "加料感情線",
+        "output_text": "[\"加料\"]"
+    },
+    {
+        "input_text": "肌智同學會",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "絕望真相",
+        "output_text": "[\"絕望\"]"
+    },
+    {
+        "input_text": "怒火街頭",
+        "output_text": "[\"怒火\"]"
+    },
+    {
+        "input_text": "鐵金剛勇戰魔鬼黨",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "敵對邊緣",
+        "output_text": "[\"敵對\"]"
+    },
+    {
+        "input_text": "狂野極速",
+        "output_text": "[\"狂野\"]"
+    },
+    {
+        "input_text": "鬼王再生",
+        "output_text": "[\"鬼王\"]"
+    },
+    {
+        "input_text": "壞蛋獎門人2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "色慾都市2",
+        "output_text": "[\"色慾\"]"
+    },
+    {
+        "input_text": "公元前10000年",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "悍戰太平洋",
+        "output_text": "[\"悍戰\"]"
+    },
+    {
+        "input_text": "鬼驅人",
+        "output_text": "[\"鬼\"]"
+    },
+    {
+        "input_text": "狂野時速6",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "百寶狗先生與細蚊：時光機大歷險",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "變種特攻：異能第一戰",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "人生交叉剔",
+        "output_text": "[\"交叉剔\"]"
+    },
+    {
+        "input_text": "猴擒兄弟幫",
+        "output_text": "[\"猴擒\"]"
+    },
+    {
+        "input_text": "冇數講",
+        "output_text": "[\"冇數講\"]"
+    },
+    {
+        "input_text": "鬼魅山房",
+        "output_text": "[\"鬼魅\"]"
+    },
+    {
+        "input_text": "危情十日",
+        "output_text": "[\"危情\"]"
+    },
+    {
+        "input_text": "超人大破電腦霸王",
+        "output_text": "[\"大破\"]"
+    },
+    {
+        "input_text": "豬兜有情人",
+        "output_text": "[\"豬兜\"]"
+    },
+    {
+        "input_text": "翻生侏羅館",
+        "output_text": "[\"翻生\"]"
+    },
+    {
+        "input_text": "火車將軍",
+        "output_text": "[\"將軍\"]"
+    },
+    {
+        "input_text": "一個葬禮四個失禮",
+        "output_text": "[\"失禮\"]"
+    },
+    {
+        "input_text": "編寫美好時光",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "我有冇問題",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "豪門巧婦",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "PARTY冇限耆",
+        "output_text": "[\"冇限耆\"]"
+    },
+    {
+        "input_text": "反斗車王",
+        "output_text": "[\"反斗\"]"
+    },
+    {
+        "input_text": "浮生路",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "平行異空",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "贖金之王",
+        "output_text": "[\"正\", \"勁\", \"過癮\"]"
+    },
+    {
+        "input_text": "大國民",
+        "output_text": "[\"大國民\"]"
+    },
+    {
+        "input_text": "致命身份",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天姬戰",
+        "output_text": "[\"戰\"]"
+    },
+    {
+        "input_text": "馴龍記",
+        "output_text": "[\"正\", \"勁\", \"過癮\"]"
+    },
+    {
+        "input_text": "奪寶奇兵之水晶骷髏國",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "卡露的情人",
+        "output_text": "[\"情人\"]"
+    },
+    {
+        "input_text": "歌舞大王昔飛路",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "哈利波特－死神的聖物2",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "小國民尼謨",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天魔特攻",
+        "output_text": "[\"特攻\"]"
+    },
+    {
+        "input_text": "英雄叛國記",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "星球大戰：新的希望",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "失蹤罪",
+        "output_text": "[\"失蹤罪\"]"
+    },
+    {
+        "input_text": "克藍瑪對克藍瑪",
+        "output_text": "[\"正\"]"
+    },
+    {
+        "input_text": "冰河世紀：隕石撞地球",
+        "output_text": "[\"正\", \"勁\", \"過癮\"]"
+    },
+    {
+        "input_text": "醉爆伴郎團3",
+        "output_text": "[\"醉爆\", \"爆\"]"
+    },
+    {
+        "input_text": "爸爸可否不要老",
+        "output_text": "[\"老\"]"
+    },
+    {
+        "input_text": "日落巴黎",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "地獄解碼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "調教你處男",
+        "output_text": "[\"處男\"]"
+    },
+    {
+        "input_text": "達文西密碼",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "叛諜追擊",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "筆姬別戀",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "天國驕雄",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "魂離情外天",
+        "output_text": "[]"
+    },
+    {
+        "input_text": "直搗黃龍",
+        "output_text": "[\"直搗黃龍\"]"
+    },
+    {
+        "input_text": "優獸大都會",
+        "output_text": "[]"
+    }
+]

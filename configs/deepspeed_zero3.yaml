@@ -1,0 +1,58 @@
+compute_environment: LOCAL_MACHINE
+debug: false
+deepspeed_config:
+  deepspeed_multinode_launcher: standard
+  zero3_save_16bit_model: true
+  zero_optimization:
+    stage: 3
+    zero3_init_flag: true
+    offload_optimizer:
+      device: cpu
+      pin_memory: true
+    offload_param:
+      device: cpu
+      pin_memory: true
+    overlap_comm: true
+    reduce_scatter: true
+    contiguous_gradients: true
+    reduce_bucket_size: 5e6
+    stage3_prefetch_bucket_size: 5e6
+    stage3_max_live_parameters: 1e6
+    stage3_max_reuse_distance: 1e6
+    stage3_max_live_gradients: 1e6
+    stage3_gather_16bit_weights_on_model_save: true
+    stage3_param_persistence_threshold: 1e3
+    sub_group_size: 1e6
+  
+  bf16:
+    enabled: true
+
+  optimizer:
+    type: AdamW
+    params:
+      lr: auto
+      betas: auto
+      eps: auto
+      weight_decay: auto
+      foreach: false
+  
+  scheduler:
+    type: WarmupDecayLR
+    params:
+      num_warmup_steps: auto
+      num_training_steps: auto
+
+  communication_data_type: bf16
+  communication_bucket_size: 1000000000
+  dist_backend: nccl
+  train_micro_batch_size_per_gpu: auto
+  gradient_clipping: 1.0
+
+distributed_type: DEEPSPEED
+downcast_bf16: auto
+machine_rank: 0
+main_training_function: main
+mixed_precision: bf16
+rdzv_backend: static
+same_network: true
+use_cpu: auto
