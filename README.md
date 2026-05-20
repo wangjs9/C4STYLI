@@ -33,24 +33,6 @@ culture-awareness/
 └── utils.py                  # Local only — not tracked (see below)
 ```
 
-### What Git tracks vs. local files
-
-Several paths are listed in [`.gitignore`](.gitignore) and are **not** pushed to the remote. Prepare them on your machine before running experiments:
-
-| Path / pattern | Purpose |
-|----------------|---------|
-| `utils.py` | Shared data loading, prompts, and text normalization (required by most scripts) |
-| `api_key.json` | Optional local API config; prefer environment variables instead |
-| `C4Styli/*.json`, `*.txt`, `*.ttf`, `*.pdf` | Root-level dataset assets and fonts (subfolders `titles/`, `slogans/`, `lexicon/` are used at runtime) |
-| `structural_ablation/*.json` | Probe / finetune / validation manifests (build with `process_data.py`) |
-| `structural_ablation/*.npy`, `*.joblib`, `*.pdf` | Cached activations, probes, and figures |
-| `generation/output/`, `identification/output/` | Model outputs |
-| `generation/*.log`, `identification/*.log`, `logs/` | Run logs |
-| `*.sh` | Local launch scripts (examples below use inline commands) |
-| `model_training/` | Legacy directory name (ignored if present) |
-
-Obtain `utils.py` and C4Styli data from the authors or regenerate them with the provided scripts; do not commit secrets or large artifacts.
-
 ---
 
 ## C4Styli Dataset
