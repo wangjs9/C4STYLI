@@ -1,6 +1,8 @@
 # Probing Cultural Awareness in LLMs: A Case Study of Cross-Culture Aesthetic Stylistics
 
-This repository provides code and data for the research project **"Probing Cultural Awareness in LLMs: A Case Study of Cross-Culture Aesthetic Stylistics"**. It supports a systematic evaluation of how large language models perceive **cross-cultural Chinese aesthetic stylistics**, Mainland Mandarin vs. Hong Kong Cantonese (traditional Chinese).
+> This repository contains the data and the code described in the paper **"Probing Cultural Awareness in LLMs: A Case Study of Cross-Culture Aesthetic Stylistics"** by [Jiashuo Wang, Fenggang Yu, Jian Wang, Chak Tou Leong, Xiaoyu Shen, Chunpu Xu, Jiawen Duan, Johan F. Hoorn, Wenjie Li], to appear in Proceedings of the IJCAI-ECAI 2026 Special Track on: Human-Centred Artificial Intelligence: Multidisciplinary Contours and Challenges of Next-Generation AI Research and Applications., https://2026.ijcai.org/ijcai-ecai-2026-call-for-papers-human-centred-ai/
+
+This work supports a systematic evaluation of how large language models perceive **cross-cultural Chinese aesthetic stylistics**, Mainland Mandarin vs. Hong Kong Cantonese (traditional Chinese). 
 
 Using the **C4Styli** (Cross-Culture Chinese-Chinese Stylistics) dataset, we compare model performance across three lines of analysis:
 
